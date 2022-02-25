@@ -1,0 +1,2477 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oeconomica sacra, or, A parænetical discourse of marriage together with some particular remarks on the marriage of Isaac and Rebecca.</title>
+            <author>J. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56510</idno>
+            <idno type="STC">Wing P62</idno>
+            <idno type="STC">ESTC R6</idno>
+            <idno type="EEBO-CITATION">13165492</idno>
+            <idno type="OCLC">ocm 13165492</idno>
+            <idno type="VID">98231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 431:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oeconomica sacra, or, A parænetical discourse of marriage together with some particular remarks on the marriage of Isaac and Rebecca.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>[14], 102, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Salusbury ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Epistle dedicatory" signed: J.P.</note>
+                  <note>Errata on p. [14].</note>
+                  <note>Advertisement: [2] p. at end.</note>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Pages 95-96 are tightly bound in filmed copy. Pages 80-end photographed from Cambridge University Library copy and inserted at the end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98231:1" rendition="simple:additions"/>
+            <pb facs="tcp:98231:1" rendition="simple:additions"/>
+            <p>
+               <hi>Oeconomica Sacra:</hi> OR A Paraenetical Diſcourſe OF
+MARRIAGE: Together with ſome PARTICULAR REMARKS ON THE <hi>Marriage</hi> OF
+<hi>ISAAC</hi> and <hi>REBECCA.</hi>
+            </p>
+            <q>
+               <l>Faelices ter &amp; amplius,</l> 
+               <l>Quos irrupta tenet copula; nec ullis</l> 
+               <l>Divulſus quaerimoniis</l> 
+               <l>Supraema citius ſolvit amor die.</l> 
+               <bibl>
+                  <hi>Horace.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Saluſbury,</hi> at the
+<hi>Atlas</hi> in <hi>Cornhil,</hi> near the <hi>Royal Exchange,</hi> 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98231:2"/>
+            <pb facs="tcp:98231:2"/>
+            <head>TO THE Right Honourable JAMES Earl of <hi>Salisbury,</hi>
+VISCOUNT <hi>CRANEB<g ref="char:V">Ʋ</g>RN,</hi> Baron <hi>Caecill</hi> of
+<hi>Eſſenden.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Lordſhip;</salute>
+            </opener>
+            <p>THe Doctrine of Vita<g ref="char:EOLhyphen"/>lity and Vegetation, as it is the Act of an
+Om<g ref="char:EOLhyphen"/>nipotent God, ſo 'tis a ſtu<g ref="char:EOLhyphen"/>pendious <pb facs="tcp:98231:3"/> Myſtery to Man: And
+as the Divine Inſtitu<g ref="char:EOLhyphen"/>tion, and Legitimacy in proſecuting the
+Succeſſion of natural Cauſes, and pro<g ref="char:EOLhyphen"/>pagation of Corporeal Be<g ref="char:EOLhyphen"/>ings, was
+a clear Indicati<g ref="char:EOLhyphen"/>on of Divine goodneſs, and a publick <hi>Manifeſto</hi> to
+in<g ref="char:EOLhyphen"/>dulge Mankind in Conju<g ref="char:EOLhyphen"/>gal embraces; as Antece<g ref="char:EOLhyphen"/>dents to thoſe wiſe and
+honourable purpoſes, for which Marriage was or<g ref="char:EOLhyphen"/>dained; ſo the Pravity and
+Corruption of the humane Nature, is viſible in thoſe notorious deviations
+from the Primitive Sanction: And the eager purſuite of <pb facs="tcp:98231:3"/> unlawful
+and deſtructive pleaſures doth wholly in<g ref="char:EOLhyphen"/>vert the appointed Deco<g ref="char:EOLhyphen"/>rum; and
+this violence of appetite continuing, the mind is dealt withall, and prepared
+to an Aſſent, and reaſon proſelyted to the di<g ref="char:EOLhyphen"/>ctates of
+paſſion.</p>
+            <p>The fatal effects of For<g ref="char:EOLhyphen"/>nication and Adulteries, are too plainly
+apparent in de<g ref="char:EOLhyphen"/>ſtroying bodily health; the ruine of Families and King<g ref="char:EOLhyphen"/>doms,
+the debauching the generality of Mankind, the Production of a miſerable and
+obſcure Progeny, the Atarchy and Confuſion in Government, the loſs of 
+<pb facs="tcp:98231:4"/> Property in the World, the want of Education and Pro<g ref="char:EOLhyphen"/>tection of
+Parents, the A<g ref="char:EOLhyphen"/>bolition of Religion and Devotion; and in ſhort, the
+Deſtruction of the Creati<g ref="char:EOLhyphen"/>on: all which are ſufficient Puniſhments in
+themſelves. Did I ſay Puniſhments? I muſt only call them Suffe<g ref="char:EOLhyphen"/>rings,
+Proaemial to Eternal Torments.</p>
+            <p>How will the wiſer Hea<g ref="char:EOLhyphen"/>then condemn ſuch bea<g ref="char:EOLhyphen"/>ſtial and
+irrational Practi<g ref="char:EOLhyphen"/>ces! they valued themſelves highly, in hopes of their
+<hi>Elyſium,</hi> and Life to come, and diſdained the Commiſ<g ref="char:EOLhyphen"/>ſion of
+any thing incon<g ref="char:EOLhyphen"/>gruous <pb facs="tcp:98231:4"/> to ſuch expectati<g ref="char:EOLhyphen"/>ons. The Holy
+Reſolution of <hi>Seneca</hi> ſtands upon re<g ref="char:EOLhyphen"/>cord; <hi>Faciam omnia tanquam
+Deus videret:</hi> And hence the Philoſopher ſo much preferred his
+contemplative,<note place="margin">Ariſtotle.</note> before his practick
+felicity; and the Poet <hi>Claudian</hi> tells us, That Nature, meaning the God
+of Nature, aſſigns happineſs to all men.</p>
+            <q>
+               <l>—Natura Beatis,</l> 
+               <l>Omnibus eſſe dedit, ſi quis cognoverit uti.</l>
+            </q>
+            <p>Now who can be ſo fooliſh, and act <hi>Antipodes</hi> to his
+own Reaſon; as to de<g ref="char:EOLhyphen"/>generate <pb facs="tcp:98231:5"/> into Senſuality and
+uncleanneſs, which inevita<g ref="char:EOLhyphen"/>bly pulls on Everlaſting Miſery? Whereas
+nothing can more advance the hu<g ref="char:EOLhyphen"/>mane Nature to its primi<g ref="char:EOLhyphen"/>tive Dignity and
+Happi<g ref="char:EOLhyphen"/>neſs, than Obedience to the Supream Law-giver; and nothing can gratifie
+the Senſes of a thinking man, but what is licenc't by the bounty of
+Heaven.</p>
+            <p>God having thus admi<g ref="char:EOLhyphen"/>rably conſulted the good of Mankind, who
+would not accept of ſuch Graci<g ref="char:EOLhyphen"/>ous Invitations, when Con<g ref="char:EOLhyphen"/>jugal Enjoyments are
+not only lawful, but indulged, <pb facs="tcp:98231:5"/> and man made an Inſtru<g ref="char:EOLhyphen"/>ment to
+propagate Poſteri<g ref="char:EOLhyphen"/>ty, and conferr a Religious Education to his Children,
+preſerve Honour and Hone<g ref="char:EOLhyphen"/>ſty, Peace, and Concord, good Government and
+de<g ref="char:EOLhyphen"/>corum in the World, and all thoſe <hi>Placentia</hi>'s and Contents of
+Marriage, are but praelibations of celeſtial Joys hereafter.</p>
+            <p>And your Lordſhips ear<g ref="char:EOLhyphen"/>ly condeſcenſion to the Ma<g ref="char:EOLhyphen"/>trimonial
+Obligation, hath encouraged this Dedication; that as your Honour is a Noble
+Advocate for Marri<g ref="char:EOLhyphen"/>age, ſo I have great hopes to preſume, that your
+Lord<g ref="char:EOLhyphen"/>ſhip <pb facs="tcp:98231:6"/> will protect this piece againſt the licentious
+hu<g ref="char:EOLhyphen"/>mour of a depraved Age; when Marriage is decry'd, as a reſtraint upon
+Liberty, and the beaten path of our wiſer Anceſtors utterly ex<g ref="char:EOLhyphen"/>ploded.</p>
+            <closer>
+               <signed>
+                  <hi>Your Honour's Moſt Humble, and Faithfully
+Devoted Servant,</hi> J. P.</signed> 
+               <dateline>
+                  <hi>E Muſeo meo Londini, </hi>
+
+                  <date>
+                     <hi>die</hi>Maii, 25. 1685.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:98231:6"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THe <hi>French</hi> firſt intro<g ref="char:EOLhyphen"/>duced the ſolemnity of a
+Preface, and others as well as they have abuſed it to a great deal of Vanity;
+and out of pretended modeſty have large<g ref="char:EOLhyphen"/>ly decry'd their own Works, and 
+<pb facs="tcp:98231:7"/> the Imperfection of their pieces: Yet after all, to publiſh them
+to the World, is no better than to adventure upon a Crime, a<g ref="char:EOLhyphen"/>gainſt open
+Conviction and Ac<g ref="char:EOLhyphen"/>knowledgment.</p>
+            <p>I would not be here miſcon<g ref="char:EOLhyphen"/>ſtrued, but ſubmit to the
+favou<g ref="char:EOLhyphen"/>rable cenſure of the Judicious; and ſhall have as low a re<g ref="char:EOLhyphen"/>ſpect
+for my own Works as any man.</p>
+            <p>And as this Treatiſe was oc<g ref="char:EOLhyphen"/>caſioned by my accidental read<g ref="char:EOLhyphen"/>ing
+the twenty fourth Chapter of <hi>Geneſis,</hi> and compoſed for my private
+Recreation at vacant hours (but by the importunity of ſome Friends now made
+pub<g ref="char:EOLhyphen"/>lick) ſo 'tis recommended to <pb facs="tcp:98231:7"/> your vacant time and leiſure
+to peruſe it; and if it give you but a ſmall diverſion, and a little
+benefit, conſider, that even that time which was beſtowed on reading of it,
+might have been worſe ſpent.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:98231:8"/>
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAge</hi> 64. <hi>line</hi> 19. <hi>for</hi> Imperial
+<hi>read</hi> Empyrean.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98231:8"/>
+            <head>OF <hi>Marriage.</hi>
+            </head>
+            <p>IT is a Maxim in Nature to af<g ref="char:EOLhyphen"/>fect Happineſs and Society,<note place="margin">Naturae ſemper in meliorem tendit.</note> and to aim at
+Improvement and Be<g ref="char:EOLhyphen"/>nefit; this was at firſt declared by the God of Nature,
+<hi>It is not good for man to be alone;</hi> and hath ſince been practiſed
+by mankind as the <hi>ſine quâ non,</hi> without which the Species
+could not be preſerved; becauſe the all-wiſe God having inveſted the
+hu<g ref="char:EOLhyphen"/>mane Nature with a <hi>Potentia,</hi> and Organical helps for generation;
+and alſo given thoſe reſpective Produ<g ref="char:EOLhyphen"/>ctions an inherent faculty of life
+and vegetation, he was not further pleaſ<g ref="char:EOLhyphen"/>ed to propagate mankind by
+Crea<g ref="char:EOLhyphen"/>tion, as he did the Angels, but e<g ref="char:EOLhyphen"/>ven in the perfecting their firſt
+Spe<g ref="char:EOLhyphen"/>cies; he was not pleaſed to Create, <pb n="2" facs="tcp:98231:9"/> but form the Woman
+<hi>ex materia praeexiſtente,</hi> of the Rib of <hi>Adam;</hi> which alſo
+implies, that as there was an Identity of <hi>Materia prima,</hi> for
+conſtituting Organical Bodies, ſo there is alſo an innate and na<g ref="char:EOLhyphen"/>tural
+affection and ſympathy reci<g ref="char:EOLhyphen"/>procal: Now it pleaſed God to tye theſe two
+pieces of Nature toge<g ref="char:EOLhyphen"/>ther, by the ſacred bonds and Sa<g ref="char:EOLhyphen"/>cramental Ordinance of
+<hi>Matrimony,</hi> whereby God did not only ſupply <hi>Adam</hi> with a meet
+help for Propa<g ref="char:EOLhyphen"/>gation, but alſo ſuperadded the Comfort and enjoyment of
+Society, the Woman reſembling the Man in nature, ſhape, body and mind, and
+there being nothing wanting to <hi>Adam</hi> for the Conſummation of his
+Happineſs but a Wife, he was made Lord over the Creatures, Heir of of the
+World, and ſeated in Para<g ref="char:EOLhyphen"/>diſe; and God providing him a fit Companion, hath
+abundantly ſup<g ref="char:EOLhyphen"/>plyed what he wanted; and man ever ſince retains ſuch
+Principles and Inclinations ſuitable to the In<g ref="char:EOLhyphen"/>ſtitution of Nature, which
+by Phi<g ref="char:EOLhyphen"/>loſophers is ſtyled, previous Diſpo<g ref="char:EOLhyphen"/>ſitions <pb n="3" facs="tcp:98231:9"/>
+or Aptitudes in matter to attain and ſeek after; which brings us to
+diſcourſe of <hi>Marriage,</hi> which God Inſtituted for his own Glory,
+the good of Mankind, and benefit of Poſterity.</p>
+            <p>
+               <hi>Marriage</hi> being the ſubject of which we are to treat, we
+will firſt conſider it in its <hi>Inſtitution,</hi> and ſe<g ref="char:EOLhyphen"/>condly in
+its <hi>Effects.</hi> And,</p>
+            <p>Firſt, Its <hi>Appointment</hi> is Divine.<note place="margin">A
+priori.</note> After God had ſaid, <hi>It is not good for man to be
+alone;</hi> it follows, <hi>Let us make a meet help for him;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> for man is by nature a ſociable
+Creature, and deſirous of Company, as a learned Commentator on the place
+tells us. An individual makes no Society,<note place="margin">
+                  <p>Nec jucun<g ref="char:EOLhyphen"/>dum indi<g ref="char:EOLhyphen"/>viduo, nec utile ſpeciei.
+<hi>Piſcator</hi> in loc.</p> 
+                  <p>Tanquam alter ipſe ſpecie &amp; formâ con<g ref="char:EOLhyphen"/>veniens.
+<hi>Rivet</hi> in loc.</p>
+               </note> nei<g ref="char:EOLhyphen"/>ther is ſerviceable to its Species;
+therefore God gave man a Wife, as another ſelf, of the ſame Speci<g ref="char:EOLhyphen"/>es and
+Figure with himſelf; than which nothing could be ſo meet an help, both for
+Society and Propa<g ref="char:EOLhyphen"/>gation of Iſſue, which was abſo<g ref="char:EOLhyphen"/>lutely neceſſary
+for the preſerva<g ref="char:EOLhyphen"/>tion of Mankind. And in the ſecond Chapter of
+<hi>Geneſis</hi> we have an ac<g ref="char:EOLhyphen"/>count of the Womans formation, 
+<pb n="4" facs="tcp:98231:10"/> that ſhe was formed of the Rib of <hi>Adam,</hi> and
+preſented to him, and thereupon ſhe becomes <hi>aliquid ipſius,</hi>
+ſomething of him, if not <hi>alter idem,</hi> another ſame, which the
+School<g ref="char:EOLhyphen"/>men declare for; that ſhe being formed out of a Rib, there was both
+Fleſh and Nerves, which makes her an <hi>alter ipſe:</hi> And ſhe being
+after the ſimilitude of man, he might the more affect and ap<g ref="char:EOLhyphen"/>prove of her;
+for humane Nature is taken with ſimiles, and we are pleaſed with the reflex
+of our ſelves, and like <hi>Narciſſus</hi> even dote upon identical
+dilations: the ſacred Phraſe runs thus,<note place="margin">
+                  <p>Deus crea<g ref="char:EOLhyphen"/>vit homi<g ref="char:EOLhyphen"/>nem marem &amp; faemi<g ref="char:EOLhyphen"/>nam. <hi>Vulg.
+lat.</hi>
+                  </p> 
+                  <p>Matrimoni<g ref="char:EOLhyphen"/>um humano generi im<g ref="char:EOLhyphen"/>mortalita<g ref="char:EOLhyphen"/>tem tribuit.
+<hi>Neviſanus.</hi>
+                  </p>
+               </note> 
+               <hi>God created man male and female.</hi>
+There being then an inden<g ref="char:EOLhyphen"/>tity of conſtituted matter, that the love of
+Society and Conjugal affe<g ref="char:EOLhyphen"/>ctions might be homogenial and re<g ref="char:EOLhyphen"/>ciprocal: Whereas
+if God had gi<g ref="char:EOLhyphen"/>ven him a Friend only, the Socie<g ref="char:EOLhyphen"/>ty had been deficient, neither
+could the Species be preſerved without a Genus: but the Ordination of God,
+and current of Nature have made them individually one, God pre<g ref="char:EOLhyphen"/>ſented her to
+man as a ſecond ſelf. <pb n="5" facs="tcp:98231:10"/> Nature and Religion, Law and
+Po<g ref="char:EOLhyphen"/>licy ſtrictly oblige them to this ſa<g ref="char:EOLhyphen"/>cred Oeconomy: This was viſible
+in <hi>Adam</hi>'s Apprehenſion and Appro<g ref="char:EOLhyphen"/>bation of it, as we read 23, and
+24. verſes; <hi>This is now bone of my bone,</hi>
+               <note place="margin">Gen.
+2.23, 24.</note> 
+               <hi>and fleſh of my fleſh:</hi> And in the 24. verſe we
+have the conſequents of this no<g ref="char:EOLhyphen"/>ble and ſacred Inſtitution; <hi>Therefore
+ſhall a man leave Father and Mother, and cleave to his Wife, and they two
+ſhall be one fleſh:</hi> That is not,<note place="margin">Non loqui<g ref="char:EOLhyphen"/>tur de
+car<g ref="char:EOLhyphen"/>nis libidi<g ref="char:EOLhyphen"/>ne, ſed af<g ref="char:EOLhyphen"/>fectû con<g ref="char:EOLhyphen"/>jugali. <hi>Pau<g ref="char:EOLhyphen"/>lus Fagius,</hi> in
+loc.</note> as one obſerves, ſpoken of fleſhly Luſting, but out of
+Conjugal Affections and Love to his Wife, who reſembles the two branches in
+<hi>Ezekiels</hi> hand; encloſed in one bark, and cloſing to<g ref="char:EOLhyphen"/>gether make
+but one fleſh, as being a Society of the moſt endeared Ami<g ref="char:EOLhyphen"/>ty and
+Friendſhip.<note place="margin">
+                  <hi>Matrimonii ſymbolum.</hi> Ezek. 24.26.
+Micah 7.5. Prov. 5.19.</note> 
+               <hi>Solomon</hi> ſpeaks thus, <hi>Be thou
+raviſht always in her Love:</hi> in the Original it is, <hi>Erre thou alwayes
+in her love; velut extra ſis ut rerum aliarum obliviſcare;</hi> which
+ſig<g ref="char:EOLhyphen"/>nifies a very earneſt affection, and a reſpect immeaſurable: And
+our Bleſſed Saviour himſelf, when he lived on earth, was pleaſed to
+ho<g ref="char:EOLhyphen"/>nour Marriage with his perſonal <pb n="6" facs="tcp:98231:11"/> attendance; and to put
+the greater accent and honour on ſo ſacred a Solemnity, was further
+pleaſed, to the admiration of all Spectators, to work his firſt Miracle
+thereat, by turning Water into Wine; which tacitly implies that Marriage brings
+honour and perfection to the hu<g ref="char:EOLhyphen"/>mane nature,<note place="margin">Faelix
+ne<g ref="char:EOLhyphen"/>ceſſitas quae ad meliora tendit.</note> which was ſhaddow<g ref="char:EOLhyphen"/>ed out by
+the melioration of wa<g ref="char:EOLhyphen"/>ter, and was a clear ſignification and approbation of
+thoſe lawful delights and entertainments, which were ſuitable and proper to
+the oc<g ref="char:EOLhyphen"/>caſion: this Nuptial tye is Recorded in Heaven, Solemnized on Earth,
+and Confirmed by the mutual gages of two united individuals. This Love is the
+Harmony,<note place="margin">Nil habet natura me<g ref="char:EOLhyphen"/>lius quam ut poſſis, neque
+praeſtantius quam ut ve<g ref="char:EOLhyphen"/>lis ſervare plures. <hi>Ci<g ref="char:EOLhyphen"/>cero.</hi>
+               </note> the
+Complexi<g ref="char:EOLhyphen"/>on, Genius, and very Soul of Nature; this true Friendſhip is the
+Zodiack wherein the Sun of Truth, Con<g ref="char:EOLhyphen"/>ſtancy and hearty Affections,
+inter<g ref="char:EOLhyphen"/>changeably compleat the whole cir<g ref="char:EOLhyphen"/>cle of motion and influence; and is the
+Guardian and tutelar Angel of Society, to which <hi>Quarles</hi> alludes in his
+deſcription of Conjugal Love.</p>
+            <q>
+               <pb n="7" facs="tcp:98231:11"/> 
+               <l>They were ſo one, that none could juſtly ſay,</l> 
+               <l>Which of them rul'd, or whether did obey;</l> 
+               <l>He rul'd, becauſe ſhe would obey, yet ſhe</l> 
+               <l>In ſo obeying rul'd as well as he.</l>
+            </q>
+            <p>And as it was inſtituted for Gods glory, and preſervation of
+Man<g ref="char:EOLhyphen"/>kind, ſo to preſerve inviolate the Laws of God, by avoiding and
+pre<g ref="char:EOLhyphen"/>venting Fornication,<note place="margin">Exod. 10.14. Mark 10.19. Heb.
+13.3.</note> which is for<g ref="char:EOLhyphen"/>bidden by God in ſeveral places of Scripture.</p>
+            <p>We can ſtill deſcribe and repre<g ref="char:EOLhyphen"/>ſent the primitive rectitude
+of hu<g ref="char:EOLhyphen"/>mane Nature, though the fall hath maimed our perfection, and impair<g ref="char:EOLhyphen"/>ed
+thoſe glorious Ideas we had at firſt, and diſpoſed us to ſin, and
+de<g ref="char:EOLhyphen"/>viations: At firſt the action of ſenſe was appointed to touch the
+affecti<g ref="char:EOLhyphen"/>on, and ſo preſent it primarily to the Underſtanding, by whoſe
+con<g ref="char:EOLhyphen"/>duct the Paſſions were ſubordinate and ſubject to its inclinations,
+and as its Deputies in the adminiſtrati<g ref="char:EOLhyphen"/>on <pb n="8" facs="tcp:98231:12"/> of ſuch
+Duties and Performan<g ref="char:EOLhyphen"/>ces, for the Benefit, Service and Happineſs of the
+humane Nature; which Underſtanding in the Soul is called an Intellectual
+Lamp, which God placed for the admirable go<g ref="char:EOLhyphen"/>vernment of his Creature; and the
+School-men call it <hi>Lumen Naturae,</hi> the Light of Nature, which St.
+<hi>Chryſoſtome</hi> calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">St.
+<hi>Chryſ.</hi> 13 Orat.</note> and tells us, that 'tis a radical and
+fun<g ref="char:EOLhyphen"/>damental knowledge planted in the being of Man, budding and bloſ<g ref="char:EOLhyphen"/>ſoming
+in his firſt Principles, flou<g ref="char:EOLhyphen"/>riſhing and bringing forth fruit, ſpreading
+it ſelf into all the fair and goodly branches of Morality, under whoſe
+ſhaddow the Soul takes great delight: And tells us further, that it grows
+ſpontaneouſly, ſhines out chearfully and pleaſantly; 'tis ſo
+viſible, that the infant age of the World could ſpell it out, and read it
+without a Teacher before <hi>Moſes</hi> was born, or <hi>Aaron</hi> wore his
+Golden Bells; before there was a Prophet or Judge in <hi>Iſrael;</hi> and
+ſo the learned <hi>Grotius</hi> deſcribes it: The Law of Nature (ſayes
+he) is a <pb n="9" facs="tcp:98231:12"/> ſtreaming out of glorious Light,<note place="margin">Jus Natu<g ref="char:EOLhyphen"/>rale, eſt dictatum, rectae Rati<g ref="char:EOLhyphen"/>onis indi<g ref="char:EOLhyphen"/>cans, actui
+alicui, ex ejus conve<g ref="char:EOLhyphen"/>nientia &amp; diſconveni<g ref="char:EOLhyphen"/>entia cum ipſa Naturae
+Rationali, ineſſe mor<g ref="char:EOLhyphen"/>talem turpi<g ref="char:EOLhyphen"/>tudinem aut neceſſitatem moralem,
+&amp; conſequenter ab authore naturae ipſo Deo, talem actum aut vetari, aut
+praecipi. <hi>Grotius de jure Natu.</hi>
+               </note> powerfully diſcovering ſuch
+a de<g ref="char:EOLhyphen"/>formity in ſome evil, as that an intellectual Eye muſt needs abhor it;
+and ſuch a commanding Beauty in ſome good, as that a rational being muſt
+needs be enamoured with it, and ſo plainly ſhewing that God ſtampt and
+ſealed the one with his Command, and branded the other with his diſlike; to
+which <hi>Plutarch</hi> very excellently alludes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. This
+Royal Law of Nature, ſayes he, was never ſhut up in a paper Priſon, was
+never confined and limited to any out<g ref="char:EOLhyphen"/>ward ſurface, but was bravely
+ſi<g ref="char:EOLhyphen"/>tuated in the Center of a rational being, alwayes keeping the Soul
+Company, for its protection and direction; ruling all its Subjects (all
+obedient actions) with a Golden Scepter, and cruſhing to pieces its Enemies,
+that's all rebellious and evil actions. And <hi>Plato</hi> tells us, that this
+Law is founded in Nature, for the maintaining, ennobling, and the per<g ref="char:EOLhyphen"/>fecting
+of Nature. But <hi>Tully</hi> draws a moſt lively portraicture of the 
+<pb n="10" facs="tcp:98231:13"/> Law of Nature:<note place="margin">Eſt qui<g ref="char:EOLhyphen"/>dem vera lex
+recta ratio, na<g ref="char:EOLhyphen"/>turae con<g ref="char:EOLhyphen"/>gruens, dif<g ref="char:EOLhyphen"/>fuſa in om<g ref="char:EOLhyphen"/>nes, con<g ref="char:EOLhyphen"/>ſtans,
+ſem<g ref="char:EOLhyphen"/>piterna, quae vocem ad officium ju<g ref="char:EOLhyphen"/>bendo, ve<g ref="char:EOLhyphen"/>tando, fraude de<g ref="char:EOLhyphen"/>terreat,
+quae tamen pro<g ref="char:EOLhyphen"/>bos, neque fruſtra ju bet aut ve<g ref="char:EOLhyphen"/>tut, nec improbos ju<g ref="char:EOLhyphen"/>bendo,
+aut vetando mo<g ref="char:EOLhyphen"/>vet; Hinc legi nec pro<g ref="char:EOLhyphen"/>pagari jas eſt, neque derogari ex hac
+aliquid licet, neque tota abrogari poteſt; nec vero aut per Senatum, aut per
+populum ſolvi hac lege poſſimus; neque eſt quaerendus explanator, aut
+interpres ejus alius, non erat alia <hi>Roma,</hi> alia <hi>Athenis,</hi> alia
+nunc, alia poſthac, ſed &amp; omnes gentes omni tempore una Lex &amp;
+ſempiterna, &amp; immutabilis continebit, unuſque erit quaſi com<g ref="char:EOLhyphen"/>munis
+Magiſter &amp; Legiſlator omnium Deus, ille legis hujus inventor,
+diſceptator, lator, cui qui non parebit, ipſe ſe fugiet, &amp; naturam
+hominis aſpernabitur.</note> The Law of Rea<g ref="char:EOLhyphen"/>ſon, ſayes he, is a beautiful
+Law, a Law of a pure Complexion and Natural colour, of a vaſt Extent and
+diffuſion; its colour and beau<g ref="char:EOLhyphen"/>ty cannot fade, it encourages men in Obedience
+with a ſmile, it chides them and frowns them out of wick<g ref="char:EOLhyphen"/>edneſs; good men
+hear the whiſ<g ref="char:EOLhyphen"/>perings of its pleaſant voice, and obſerve the leaſt
+glance of its love<g ref="char:EOLhyphen"/>ly eye; but wicked men ſometimes will not hear it when it
+comes to them in Thunder, nor take the leaſt notice of it, though it flaſh
+out in Lightning; none muſt enlarge nor diminiſh this Law, neither can the
+malice of men totally deface its Beauty, neither Prince nor People, Angels nor
+Men can abſolve you from it; this Law never paints its <pb n="11" facs="tcp:98231:13"/>
+face, nor change its colour; it does not put on one aſpect at
+<hi>Athens,</hi> and another at <hi>Rome,</hi> but looks up<g ref="char:EOLhyphen"/>on all Nations and
+Perſons with an impartial eye; it ſhines upon all Ages, and Times, and
+Conditions with a perpetual Light; there is but one Law-giver, he contrived and
+commanded it, and none can be exempted from it, unleſs he be baniſht from
+his own Eſſence, and excommunicated from humane na<g ref="char:EOLhyphen"/>ture. And St.
+<hi>Auſtin</hi> in his Con<g ref="char:EOLhyphen"/>feſſions: Thy Law, ſayes he,<note place="margin">Tua lex, tua lex ſcripta eſt in cordibus noſtris, quam non
+ulla un<g ref="char:EOLhyphen"/>quam delet iniquitas.</note> is written in our hearts, which no
+Iniquity can blot out. And the wi<g ref="char:EOLhyphen"/>ſer Heathen braved it out in ad<g ref="char:EOLhyphen"/>mirable
+expreſſions; That Beauty and Goodneſs was a ſufficient re<g ref="char:EOLhyphen"/>ward and
+compenſation, that the very turpitude of evil actions is Pu<g ref="char:EOLhyphen"/>niſhment enough
+in it ſelf: And what an high pitch of greatneſs did <hi>Pla<g ref="char:EOLhyphen"/>to</hi> attain
+to, when he calls Laws that were made by man, to pre<g ref="char:EOLhyphen"/>ſerve Juſtice, and
+Puniſh Vice, but <hi>Hominum infirmiorum commenta,</hi> a re<g ref="char:EOLhyphen"/>membrance for
+weak men, to keep them virtuous. And <hi>Seneca</hi> divine<g ref="char:EOLhyphen"/>ly 
+<pb n="12" facs="tcp:98231:14"/> expreſt himſelf;<note place="margin">Licet ſci<g ref="char:EOLhyphen"/>rem
+Deum ignoſciturum &amp; homines ignoraturos, attamen peccare nol<g ref="char:EOLhyphen"/>lem ob
+pec<g ref="char:EOLhyphen"/>cati turpi<g ref="char:EOLhyphen"/>tudinem. <hi>Sen.</hi> Vir bonus reveretur ſeipſum.</note>
+If I were ſure, ſayes he, that God would certain<g ref="char:EOLhyphen"/>ly pardon me, and men
+could ne<g ref="char:EOLhyphen"/>ver know of it, yet I would ſcorn to ſin for its foulneſs and
+diſho<g ref="char:EOLhyphen"/>neſty. And what Chriſtian can keep pace herein, endeavouring after
+ſuch original rectitude? and when he gave the world that golden Apo<g ref="char:EOLhyphen"/>thegm,
+That a good man has a ve<g ref="char:EOLhyphen"/>neration for himſelf; what ſtrong emulations had
+he to climb after Original Purity, and advance Na<g ref="char:EOLhyphen"/>ture to her primitive
+Dignity! how did he aim after the Image of his Maker, to preſerve that
+Species of Goodneſs implanted in him, as knowing that ſins and
+immorali<g ref="char:EOLhyphen"/>ties were the degenerations of hu<g ref="char:EOLhyphen"/>mane Nature, and would debaſe him
+into a Devil.</p>
+            <p>Now man being a free and vo<g ref="char:EOLhyphen"/>luntary Creature, hath a freedome and
+liberty to proſecute his own happineſs, and having taſted that forbidden
+fruit, how has he as it were poyſoned himſelf and poſterity! And how hath
+that glo<g ref="char:EOLhyphen"/>rious Picture of his Maker loſt its <pb n="13" facs="tcp:98231:14"/> gloſs and
+beauty, and the oriency of its colours! <hi>Horreſco referens!</hi> We
+tremble to relate how that ſweet harmony of his faculties, and
+ſubordination of them to each other, is broken; how every mo<g ref="char:EOLhyphen"/>tion of the
+inferior power has diſobeyed that government and di<g ref="char:EOLhyphen"/>rection which the
+ſuperior did ad<g ref="char:EOLhyphen"/>miniſter! how hath man baſely exchanged reaſonable and
+well or<g ref="char:EOLhyphen"/>dered Paſſions for ſenſual and beaſt<g ref="char:EOLhyphen"/>ly!<note place="margin">Tanta eſt vis volup<g ref="char:EOLhyphen"/>tatum ut &amp; ignoranti<g ref="char:EOLhyphen"/>um protelet in
+occaſio<g ref="char:EOLhyphen"/>nem, &amp; con<g ref="char:EOLhyphen"/>ſcientiam corrumpat in diſſimu<g ref="char:EOLhyphen"/>lationem.
+<hi>Tertul.</hi>
+               </note> what crookedneſs and diſſen<g ref="char:EOLhyphen"/>tion is there
+fighting againſt his reaſon! what Soleciſms in his man<g ref="char:EOLhyphen"/>ners! what
+impoſtures to obliterate reaſon and original truth! and the Underſtanding
+being caſt out, Paſſion hath uſurped the Chair, which judges of things,
+not according to natural truth, but according to the Impreſſions of Fancy,
+Pleaſure, and the dictates of corrupt Na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>And this Corruption of Nature is particularly ſeen in
+Incontinen<g ref="char:EOLhyphen"/>cy: God of his great goodneſs hath given us a lawful and
+honourable uſe of thoſe innate deſires, and propen<g ref="char:EOLhyphen"/>ſities 
+<pb n="14" facs="tcp:98231:15"/> of nature in mutual enjoyments, <hi>ad converſationem
+ſpeciei,</hi> for Gene<g ref="char:EOLhyphen"/>ration ſake, but not to ſatisfie thoſe vile
+affections of Luſt, as the Apo<g ref="char:EOLhyphen"/>ſtle ſpeaks; and forſaking the guid<g ref="char:EOLhyphen"/>ance
+of reaſon, they diſhonoured their bodies amongſt themſelves, as St.
+<hi>Jude</hi> tells; which is ſtyled by the Philoſopher,<note place="margin">Ariſtotle.</note> 
+               <hi>Morbid</hi> deſires; and the Apoſtle
+tells us, that he who commits fornication ſins againſt his own Body.<note place="margin">Morbus eſt affectus con<g ref="char:EOLhyphen"/>tra natu<g ref="char:EOLhyphen"/>ram corpori incidens.</note> As
+<hi>Fernelius</hi> obſerves of diſeaſes, that they are affections of body
+contrary to Nature; ſo are Adulteries and Fornications. The Poet
+repreſented <hi>Agamemne, Os oc<g ref="char:EOLhyphen"/>culuſque Jovi par,</hi> in his features
+like <hi>Jupiter,</hi> in valour like <hi>Mars,</hi> in Wiſdom a very
+<hi>Apollo</hi> himſelf: But when angry and paſſionate, tranſ<g ref="char:EOLhyphen"/>form'd
+into a Lyon, a Tyger, a Devil. So man was created after the Divine Image, and
+ſhould pre<g ref="char:EOLhyphen"/>ſerve the ſacred obligations of Mar<g ref="char:EOLhyphen"/>riage Inviolable: but by
+Fornicati<g ref="char:EOLhyphen"/>ons and Adulteries metamorphos'd into a Beaſt, a Devil; and though
+the Commiſſion of Sin at firſt plea<g ref="char:EOLhyphen"/>ſes corrupt Nature, yet the
+viola<g ref="char:EOLhyphen"/>tion <pb n="15" facs="tcp:98231:15"/> of the Divine Law, and our guilty
+Conſciences, will affright and torture us. The Poet tells us, 
+<q>
+                  <l>Principium dulce eſt, ſed finis amoris amarus,</l> 
+                  <l>Laeta venire Venus, triſtis abire ſolet.</l>
+               </q>
+            </p>
+            <p>This vultures and gnaws the af<g ref="char:EOLhyphen"/>flicted heart, this brings
+deſtructi<g ref="char:EOLhyphen"/>on to Soul and Body; whence proceeds ſuch <hi>Ghonorreahs</hi>
+and In<g ref="char:EOLhyphen"/>flamations of Liver, and brings a ſuddain Cataſtrophe to life it
+ſelf.<note place="margin">Suetonius in<g ref="char:EOLhyphen"/>vit. ejus.</note> It ruined
+<hi>Alexander</hi> the Great, <hi>O<g ref="char:EOLhyphen"/>tho</hi> the Emperour, Pope <hi>Sextus</hi>
+the fourth: <hi>Qui diſſeſſit tabidus voluptate,</hi> as the
+<hi>Hiſtorian</hi> tells us. And as <hi>Turtullian</hi> obſerves, the Body
+quick<g ref="char:EOLhyphen"/>ly fails the Mind, the Mind the De<g ref="char:EOLhyphen"/>ſire, the Deſire the Satisfaction,
+and all the man. And how hath Gods Judgments purſued the Adul<g ref="char:EOLhyphen"/>teror!<note place="margin">Suetonius.</note> 
+               <hi>Julius Caeſar</hi> was ſtabb'd in the
+Senate-houſe, as a juſt reward of his Incontinence: And how re<g ref="char:EOLhyphen"/>markable was
+Gods judgment upon the <hi>Levites</hi> Wife,<note place="margin">Judg. 19.20,
+21.</note> that plaid the A<g ref="char:EOLhyphen"/>dultereſs! and we have an account 
+<pb n="16" facs="tcp:98231:16"/> how ſhe was cut and divided into twelve pieces, and
+ſent into all the Coaſts of <hi>Iſrael.</hi> And it would be too tedious
+to relate, what miſe<g ref="char:EOLhyphen"/>ry and deſtruction it brought to <hi>An<g ref="char:EOLhyphen"/>thony</hi> and
+<hi>Cleopatra, Auguſtus Caeſar, Mary</hi> of <hi>Aragon, Rodolphus</hi> of
+<hi>Lom<g ref="char:EOLhyphen"/>bardy,</hi> and others: And one wittily expreſſes it,<note place="margin">Non eſt è terris mollis ad aſtra via.</note> the
+paſſage to Heaven is all the way up-hill, and the un<g ref="char:EOLhyphen"/>clean Adulterer with
+his rotten lungs cannot climb it up. <hi>Sampſons</hi> ſtrength was
+enervated by a Wo<g ref="char:EOLhyphen"/>man: And <hi>Solomons</hi> Wiſdom nigh extinguiſhed in
+the fire of Luſt. What a blot and diſhonour was it to <hi>Amnon,</hi> and
+how was his Sin ag<g ref="char:EOLhyphen"/>gravated in the caſe of <hi>Thamar!</hi>
+            </p>
+            <p>Neither does it terminate in per<g ref="char:EOLhyphen"/>ſonal deſtruction, but
+affects Fami<g ref="char:EOLhyphen"/>lies, nay Kingdoms and Empires: what miſery did <hi>David</hi>
+bring on himſelf and family by Adultery with <hi>Bathſheba!</hi> and how
+terrible the Divine Judgment againſt him! <hi>The Sword ſhall not depart
+from thine houſe,</hi>
+               <note place="margin">2 Sam. 11.10, 11, 12.</note>
+               <hi>becauſe thou haſt deſpiſed the Lord, and taken the Wife of <g ref="char:V">Ʋ</g>riah
+the Hittite:</hi> and it muſt needs prick him <pb n="17" facs="tcp:98231:16"/> to the
+Heart, when <hi>Nathan</hi> ſo pa<g ref="char:EOLhyphen"/>thetically expoſtulates the caſe, and
+ſumms up Gods great goodneſs to him, after he had killed
+<hi>
+                  <g ref="char:V">Ʋ</g>riah,</hi>
+               <note place="margin">Ver. 7, 8, 9.</note> and done evil in the
+ſight of the Lord: And we find that Idleneſs was a great ſtep to this
+Sin. <hi>David</hi> walking on the top of his Houſe, ſaw that Beau<g ref="char:EOLhyphen"/>tiful
+Woman: The ſoul wanting the Salutiferous food of buſineſs, preys upon
+evils; as the Poet tells us of <hi>Aegiſtus</hi> his Adultery, 
+<q>
+                  <l>Quaeritur Aegiſtus quomodo ſit factus Adulter,</l> 
+                  <l>In promptu cauſa eſt, Deſidioſus erat.</l>
+               </q> It was
+Idleneſs adminiſtred the occaſion of his Sin.</p>
+            <p>We would therefore more eſpe<g ref="char:EOLhyphen"/>cially recommend Imployment and
+Buſineſs, as a great preſervative againſt thoſe Sins: they preſerve
+the mind againſt thoſe ſenſual ſol<g ref="char:EOLhyphen"/>licitations and Syren
+Inchantments, and fortifie the ſoul againſt thoſe fatal Poyſons that
+kill us in our de<g ref="char:EOLhyphen"/>lights, and ſo preſerve it invulnera<g ref="char:EOLhyphen"/>ble from the Arrows
+of a <hi>Lais</hi> or <pb n="18" facs="tcp:98231:17"/> 
+               <hi>Cleopatra;</hi> obſtruct
+thoſe <hi>peccata in deliciis</hi> which otherwiſe might ſtorm and
+conquer our beſt reſolutions; and like a Coat of Male which pre<g ref="char:EOLhyphen"/>ſerves
+the body, ſo buſineſs pre<g ref="char:EOLhyphen"/>ſerves the mind from thoſe fatal
+In<g ref="char:EOLhyphen"/>chantations;<note place="margin">Homines ni hil agendo malè agere
+diſcunt.</note> but if we give up our ſelves to Idleneſs, a hundred to
+one but ſome evil attacks us. As a match takes fire, ſo Luſt overtakes
+Idle<g ref="char:EOLhyphen"/>neſs: hence the Poets repreſent all Shepheards laſcivious and
+effemi<g ref="char:EOLhyphen"/>nate, becauſe generally Idle per<g ref="char:EOLhyphen"/>ſons: ſo <hi>Theophraſtus</hi>
+defines it, <hi>Otioſi animi affectus.</hi> And <hi>Seneca</hi> is in the
+right when he tells us,<note place="margin">Juventâ gignitur, Luxû
+nu<g ref="char:EOLhyphen"/>tritur, feriis alitur otio<g ref="char:EOLhyphen"/>que inter lae<g ref="char:EOLhyphen"/>ta fortunae bona.</note> Youth
+begets it, riot maintains it, Idleneſs nouriſhes and continues it. How
+luſtful and effiminate was <hi>Al<g ref="char:EOLhyphen"/>cibiades, Sardanapalus, Nero</hi> and
+o<g ref="char:EOLhyphen"/>thers! Whereupon St. <hi>Hierom</hi> ob<g ref="char:EOLhyphen"/>ſerves, That wherever Security and
+Idleneſs prevails, there wanton<g ref="char:EOLhyphen"/>neſs and luſt reigns.</p>
+            <p>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>bicunque ſecuritas, ibi libido
+domi<g ref="char:EOLhyphen"/>natur.</note>And that it affects Kingdoms and States, we find it in the
+caſe of <hi>Sodom.</hi> God rained down Fire and Brimſtone from Heaven, and
+deſtroyed the <hi>Sodomites,</hi> as <hi>Pererius</hi> 
+               <pb n="19" facs="tcp:98231:17"/>
+notes on the Place;<note place="margin">Ex eo quod relatione ad Deum ſub nomine
+Te<g ref="char:EOLhyphen"/>tragram<g ref="char:EOLhyphen"/>maton di<g ref="char:EOLhyphen"/>cuntur, val<g ref="char:EOLhyphen"/>de male, &amp; peccatores ſignificatur eo
+contra jus naturae valde pec<g ref="char:EOLhyphen"/>câſſe. <hi>Pere. in Locum.</hi>
+               </note>
+Giving them<g ref="char:EOLhyphen"/>ſelves over to Fornication, and go<g ref="char:EOLhyphen"/>ing after ſtrange fleſh,
+they ſinned againſt the light of Nature: where<g ref="char:EOLhyphen"/>fore the Paſſion and
+Indignation of <hi>Lactantius</hi> is commendable, when he ſayes, That no
+Indignation againſt this Sin of <hi>Sodom</hi> is enough: and as their
+puniſhment was by fire, ſo it was ſuitable to the Nature of their Sin,
+and burning Luſts, as <hi>Gregory</hi> expreſſeth it. There was Luſting
+without meaſure, and exceſs of riot;<note place="margin">Sulphure
+ſignificatus &amp; punitus fuit peccato<g ref="char:EOLhyphen"/>rum foetor, igne libidi<g ref="char:EOLhyphen"/>nis ardor.
+<hi>Greg. in locum.</hi>
+               </note> and as their Sins were of a crying and
+aggravating Nature, ſo the execution of their puniſhment was by Fire, which
+is accounted moſt afflictive to Senſe, and a ſuitable puniſhment for
+the greateſt offen<g ref="char:EOLhyphen"/>ders. And this fire was a miracu<g ref="char:EOLhyphen"/>lous fire; the Text
+ſays, <hi>The Lord rained Fire and Brimſtone, from the Lord: Pererius</hi>
+renders it, <hi>E Noſtris,</hi> it came not from the Strength of na<g ref="char:EOLhyphen"/>tural
+cauſes, but immediately from God himſelf. God wrought a mira<g ref="char:EOLhyphen"/>cle to
+puniſh thoſe <hi>Sodomites,</hi> and to put a difference between the
+or<g ref="char:EOLhyphen"/>dinary Generation of fire and Sul<g ref="char:EOLhyphen"/>phur, <pb n="20" facs="tcp:98231:18"/> produced from
+natural cauſes,<note place="margin">His verbis ſignificatur quod praeter
+naturalem, rerum cur<g ref="char:EOLhyphen"/>ſum miracu<g ref="char:EOLhyphen"/>lum opera<g ref="char:EOLhyphen"/>tus eſt, pu<g ref="char:EOLhyphen"/>niendo ini<g ref="char:EOLhyphen"/>quos ad
+dif<g ref="char:EOLhyphen"/>ferentiam enim natu<g ref="char:EOLhyphen"/>ralium cau<g ref="char:EOLhyphen"/>ſarum natu<g ref="char:EOLhyphen"/>rali ordine occurrenti<g ref="char:EOLhyphen"/>um, ad
+ge<g ref="char:EOLhyphen"/>nerandum ſulphur &amp; ignem, ad<g ref="char:EOLhyphen"/>junctum eſt illud, A Je<g ref="char:EOLhyphen"/>hova.</note> it
+is ſuperadded in the Text, <hi>in terminis, è Jehovah,</hi> from the
+Lord; and this is the ſence of the beſt In<g ref="char:EOLhyphen"/>terpreters, as <hi>Toſtatus,
+Calvin, Muſ<g ref="char:EOLhyphen"/>culus, Paraeus</hi> and <hi>Rivet.</hi>
+            </p>
+            <p>And what but the Adultery of <hi>Pa<g ref="char:EOLhyphen"/>ris</hi> with
+<hi>Hellena,</hi> occaſioned the <hi>Tro<g ref="char:EOLhyphen"/>jan</hi> War, the Ruin of that
+famous Kingdom, the Death of <hi>Paris,</hi> and <hi>Hellena,</hi> and King
+<hi>Priamas</hi> himſelf! And <hi>Sextus Tarquinius</hi> for the Rape of
+<hi>Lucretia,</hi> (for which ſhe ſlew her ſelf,) was both expelled his
+King<g ref="char:EOLhyphen"/>dom, and ſlain by the <hi>Sabines;</hi> and the <hi>Romans</hi> very
+properly Solemni<g ref="char:EOLhyphen"/>zed their Funeral Rites at the Gate of the Temple of
+<hi>Venus,</hi> to let the World know, that Luſt and Incon<g ref="char:EOLhyphen"/>tinence was an
+Haſtener and Harbin<g ref="char:EOLhyphen"/>ger of Death. <hi>Epiphanius</hi> relates ſad Stories
+of the Impurities of the <hi>Gnoſticks,</hi> and <hi>Clemens
+Alexandrinus</hi> of the <hi>Carpocratians:</hi> therefore let us all remember
+that Poetical Ad<g ref="char:EOLhyphen"/>monition; 
+<q>
+                  <l>Corpus, opes, animam, famam, vim, lumina, Scortum</l> 
+                  <l>
+                     <pb n="21" facs="tcp:98231:18"/>Debilitat, perdit, necat, aufert, eripit,
+orbat.</l>
+               </q>
+            </p>
+            <p>And let us ſeriouſly conſider the Royal Obſervation of the
+Wiſeſt King:<note place="margin">Prov. 7.25, <hi>and</hi> 26.—</note>
+               <hi>She hath caſt down many wound<g ref="char:EOLhyphen"/>ed; yea, many ſtrong men have been
+ſlain by her: Her houſe is the way to Hell, going down to the Chambers of
+Death.</hi> We will only juſt touch at the manner of the Nuptial
+Celebra<g ref="char:EOLhyphen"/>tion, and ſo proceed to conſider the Effects of Marriage. The
+Anci<g ref="char:EOLhyphen"/>ents Solemnized thoſe Sacred Obli<g ref="char:EOLhyphen"/>gations with ſuch Care, that God
+himſelf might be an apparent Wit<g ref="char:EOLhyphen"/>neſs of that holy Covenant; and ſe<g ref="char:EOLhyphen"/>veral
+Nations have obſerved ſeveral ſorts of Ceremonies; and we may ſuppoſe
+them wiſely and judiciouſly inſtituted, as the Repreſentatives of that
+great Myſtery. The <hi>Hebrews</hi> had firſt their Betrothings, then their
+Conjugal Rites: There was a diſtance of time between their Eſ<g ref="char:EOLhyphen"/>pouſals,
+and the Conſummation; which is obſervable from the Anſwer of
+<hi>Rebecca</hi>'s Mother unto <hi>Abraham</hi>'s Servant, that ſhe might
+remain <pb n="22" facs="tcp:98231:19"/> with her at leaſt ten dayes after the
+Eſpouſals: Several Friends aſ<g ref="char:EOLhyphen"/>ſiſted at this Ceremony; and they had
+an <hi>Epithalamium,</hi> or Nuptial Song ſung by ſome particular Friends,
+ſtyled, the <hi>Children of the Bride-Chamber:</hi>
+               <note place="margin">Mat.
+9.15.</note> And that this <hi>Hy<g ref="char:EOLhyphen"/>meneal</hi> Song was no other than a Form of
+Bleſſing pronounced on the new Married Couple, is thus deſcri<g ref="char:EOLhyphen"/>bed by
+<hi>Genebrand:</hi> 
+               <q>The Chief of thoſe Companions taketh a Cup, and Bleſſeth
+it, ſaying; <hi>Bleſſed be the Lord our God, which created Man after his
+own Image, and hath thereby prepared to himſelf an everlaſting Build<g ref="char:EOLhyphen"/>ing:
+Bleſſed be thou, O Lord our God, who haſt created Joy and Gladneſs, the
+Bridegroom and the Bride, Charity and brotherly Love, Rejoycing and Pleaſure,
+Peace and Society: I beſeech thee, O Lord, let there be ſuddenly heard in
+the Cityes of</hi> Judah, <hi>and Streets of</hi> Jeru<g ref="char:EOLhyphen"/>ſalem, <hi>the voice
+of Joy and Gladneſs, the voice of the Bridegroom and the Bride; the voice of
+Exultation in the Bride-Chamber is ſweeter than any Feaſt, and Children
+ſweeter than the ſweetneſs of a Song.</hi>
+               </q> And he drinks to 
+<pb n="23" facs="tcp:98231:19"/> the Married Couple;—From which our vulgar Cuſtom
+of <hi>wiſhing them Joy</hi> and Happineſs proceeds.—They kept their
+Marriage Feaſt ſeven dayes;<note place="margin">Judg. 14.10. <hi>and</hi>
+11.—</note> which ſpace of time they ob<g ref="char:EOLhyphen"/>ſerved for mourning, whence
+came that <hi>Jewiſh</hi> Proverb, <hi>Septem ad Con<g ref="char:EOLhyphen"/>vivium, ſeptem ad
+Luctum:</hi> And there was a Wedding Ring given to the Bride, with this
+Inſcription, <hi>Ma<g ref="char:EOLhyphen"/>zal Tob,</hi> which the <hi>Hebrews</hi> call the Planet
+<hi>Jupiter,</hi> according to <hi>Munſter,</hi> which they thought of great
+Effica<g ref="char:EOLhyphen"/>cy and Vertue for Generation. And the Subjection and Modeſty of Women
+in thoſe days is obſervable: When the Wife was firſt preſented to her
+Husband, ſhe covered her ſelf with a Vail: Thus did <hi>Rebecca,</hi> when
+ſhe eſpyed <hi>Iſaac</hi> coming to<g ref="char:EOLhyphen"/>wards her, ſhe took a Vail,<note place="margin">Gen. 24.65.</note> and co<g ref="char:EOLhyphen"/>vered her ſelf. Now as the
+<hi>Hebrews</hi> pray'd unto God, ſo other Nations had their particular
+Auſpicious Dei<g ref="char:EOLhyphen"/>ties, and forms of Invocations; as, at <hi>Athens,
+Hymeneus;</hi> and at <hi>Rome, Thalaſſius;</hi> that the Marriage might be
+happy and fortunate: And they adorned one Finger of the left Hand 
+<pb n="24" facs="tcp:98231:20"/> with a Ring, as a Symbol of their great Love to their
+Husbands; and they were wont to be carryed into their Husbands Houſes, to
+intimate, that they loſt their ſollicited Virgi<g ref="char:EOLhyphen"/>nity not voluntarily. We
+will not trouble you with the ſeveral Cu<g ref="char:EOLhyphen"/>ſtoms which were accommodated to
+Magnificence and Splendour of the Nuptials, the Sports of Gladi<g ref="char:EOLhyphen"/>ators, and
+Preparations of Paſtime for the People, which <hi>Theophraſtus</hi> calls,
+the <hi>Delightful Product of Riches:</hi> And for our modern Cuſtoms herein,
+and modes of Celebration, we paſs them over, to haſten to the Effects of
+Marriage.</p>
+            <p>
+               <note place="margin">A poſteriori.</note>Secondly, We come to
+conſider the <hi>Effects</hi> of Marriage: And we are not about
+<hi>
+                  <g ref="char:V">Ʋ</g>mbraticam Cauſam,</hi> need<g ref="char:EOLhyphen"/>leſs things; but our deſign is to
+bla<g ref="char:EOLhyphen"/>zon the Sacred and Noble Effects of Marriage.<note place="margin">Finis dat
+amabilita<g ref="char:EOLhyphen"/>tem mediis.</note> 'Tis the End and good Conſequence of things that
+gives the greater Luſtre and Lovelineſs to the Cauſes.—Man being a
+con<g ref="char:EOLhyphen"/>gregable Creature, by reaſon of his Speech, the <hi>Communative Organ of
+Society,</hi> as <hi>Cicero</hi> tells us;—Man <pb n="25" facs="tcp:98231:20"/>
+delights in the Company of his own <hi>Species,</hi>
+               <note place="margin">Pares
+cum paribus ſa<g ref="char:EOLhyphen"/>cilime con<g ref="char:EOLhyphen"/>gregantur. <hi>Cicero.</hi>
+               </note> and the
+Similitude of their Natures hath conſtituted a continu<g ref="char:EOLhyphen"/>ed Alliance amongſt
+themſelves. And <hi>Toſtatus</hi> tells us, That that was the Original of
+Civil Communication, for the mutual Preſervation of Man<g ref="char:EOLhyphen"/>kind: The happy
+Effects of it were ſeen in the ſeveral Families and Aſſo<g ref="char:EOLhyphen"/>ciations of
+the firſt Age:—The firſt Oeconomies and Inſtitutions for the
+Government of Mankind, was the bleſſed Effects of Marriage.— Here the
+admirable wiſdom of Divine Pro<g ref="char:EOLhyphen"/>vidence ſhined out, and here the
+Ce<g ref="char:EOLhyphen"/>leſtial Proclamation took place; <hi>Glo<g ref="char:EOLhyphen"/>ry to God on High, on Earth
+Peace, good Will towards Men:</hi> For, no ſooner was Man created for God's
+Glory, but a meet help aſſigned him; and the next thing in Nature after
+Ge<g ref="char:EOLhyphen"/>neration follows Preſervation, Sub<g ref="char:EOLhyphen"/>ordination, and Government, as a
+Pattern to Succeeding Ages, for the Government of God's Church and People in
+the World. Now Self-love being an inſeperable Pro<g ref="char:EOLhyphen"/>perty to all Beings,<note place="margin">Amor ſui.</note> we muſt needs delight in the Preſervation
+of our <pb n="26" facs="tcp:98231:21"/> own Eſſence, for the Unity we find in our
+ſelves: And when in Nature, or Habit, we find the Similitude and Character of
+our ſelves, the Beams and Powers of our Wills and Affe<g ref="char:EOLhyphen"/>ctions do extend and
+dilate them<g ref="char:EOLhyphen"/>ſelves upon thoſe Objects reſpective<g ref="char:EOLhyphen"/>ly. Now a
+Repreſentation is made,</p>
+            <p n="1">1. In <hi>Subſtance;</hi> as the Husband and Wife are
+<hi>One Fleſh,</hi> and Chil<g ref="char:EOLhyphen"/>dren the Branches of their Parents.</p>
+            <p n="2">2. In <hi>Accidents,</hi> or <hi>Qualities;</hi> as one Man
+is like to another, either in the Dimenſions of Body, Iden<g ref="char:EOLhyphen"/>tity of
+Phyſiognomy, or mental En<g ref="char:EOLhyphen"/>dowments;—all which prompts Nature to mutual
+Exerciſes of Love and Courteſie. And this natural Civility and Providence
+extends to other Creatures as well as Man: <hi>Eli<g ref="char:EOLhyphen"/>an</hi> reports of the
+Affection of Ele<g ref="char:EOLhyphen"/>phants to their Young: That the Pelican, if the Naturalliſts
+may be credited, when her young Ones have been bitten, feeds them with her own
+Blood, for their Recovery, (which a <hi>Portugal</hi> Prince made Em<g ref="char:EOLhyphen"/>blematical
+to expreſs his Love to his Subjects;) and other Creatures ob<g ref="char:EOLhyphen"/>ſerve 
+<pb n="27" facs="tcp:98231:21"/> this Affection, according to <hi>Elian:</hi> Nay, the
+moſt cruel of Beaſts, the Tyger, if <hi>Statius</hi> be not miſta<g ref="char:EOLhyphen"/>ken: 
+<q>
+                  <l>—Sic aſpera Tigris</l> 
+                  <l>Foetibus abreptis Scythico deſerta ſub Antro</l> 
+                  <l>Accubat, &amp; lepidi lambit veſtigia lecti.<note place="margin">Lib. 10.</note>
+                  </l>
+               </q>
+            </p>
+            <p>Nay, what Regiment this affecti<g ref="char:EOLhyphen"/>on does obtain upon the whole
+Claſſes of vegetable nature, is pleaſant to obſerve: in the Vine and
+Elm how great a ſympathy! the Olive and the Mirtle embrace each other. What a
+ſtory is related of two Palm trees in <hi>Italy</hi> by <hi>Jovianus
+Pontanus,</hi> in his Poems! Naturaliſts allow them Male and Female, and that
+they will not grow out of each others ſight. The Poet <hi>Claudian</hi>
+deſcribes the Paſſion of <hi>Vegetables,</hi> thus, 
+<q>
+                  <l>Vivunt in venerem frondes, omniſque viciſſim,</l> 
+                  <l>Foelix arbor amat, nutat &amp; mutua Palma;</l> 
+                  <l>Faedera, populco ſuſpirat populus ictu.</l>
+               </q>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:98231:22"/>But in Mankind how much great<g ref="char:EOLhyphen"/>er is this
+affection, and who can un<g ref="char:EOLhyphen"/>dertake to deſcribe the extent of Conjugal Love!
+Man admires her as his meet help; ſhe was built in <hi>Pa<g ref="char:EOLhyphen"/>radiſe:</hi>
+Nature hath given her pu<g ref="char:EOLhyphen"/>rer Elements in her Compoſition, and ſweetned her
+Countenance be<g ref="char:EOLhyphen"/>yond the Sternneſs of a Male Aſpect, and hath intruſted
+her with the Conception, Production and Educa<g ref="char:EOLhyphen"/>tion of Poſterity. And God gave
+the honour of our Redemption to the Seed of the Woman; man is more obſequious
+to that Sex than his own. For a virtuous and wiſe Woman is like the
+Ambaſſador of a Prince, held as a Perſon ſacred: man admires her for
+that ſecret ſweetneſs that indulge and gratifie all his ſenſes at
+once in his Converſation with her; and is ſenſible of the frui<g ref="char:EOLhyphen"/>tion of
+ſo excellent a Creature without himſelf, and of the honour he receives by
+help of Propagati<g ref="char:EOLhyphen"/>on and parity of natural Union: ſhe is the high Chamberlain
+of his Soul, <hi>Privado</hi> of his Senſes, and with the <pb n="29" facs="tcp:98231:22"/> charms of her figure,<note place="margin">In totâ re<g ref="char:EOLhyphen"/>rerum
+natu<g ref="char:EOLhyphen"/>râ nihil for<g ref="char:EOLhyphen"/>mâ divini<g ref="char:EOLhyphen"/>us, nihil auguſtius, nihil
+praeti<g ref="char:EOLhyphen"/>oſius cujus vires hinc facile intel<g ref="char:EOLhyphen"/>liguntur.
+<hi>Socrates.</hi>
+               </note> feature and relation, can perſwade him into more
+than all the intermitted retho<g ref="char:EOLhyphen"/>rick of a Maſculine friend.</p>
+            <q>
+               <l>Ab talem uxorem qui praeſtentiſſima forma,</l> 
+               <l>Nil mortale refert.—</l>
+            </q>
+            <p>But it would be too tedious to re<g ref="char:EOLhyphen"/>late the Examples of Conjugal
+af<g ref="char:EOLhyphen"/>fection; we paſs over the Love of <hi>Abraham</hi> and <hi>Iſaac</hi> to
+their Wives;<note place="margin">Ezek. 24.16.</note> of <hi>Ezekiel,</hi> whoſe
+Wife was called <hi>the delight of his Eyes;</hi> the Vulgar Latin is,
+<hi>Deſiderium Oculorum tuorum. Auguſtus Caeſar</hi> died in the
+kiſſes of his Wife <hi>Livia. Conjugii noſtri mea mor, vive &amp;
+vale.</hi> We paſs over the affections of <hi>Theodoſius</hi> and
+<hi>Placilla</hi> his Queen, of <hi>Seneca</hi> and <hi>Paulina,
+Manſolus</hi> and <hi>Artemeſia:</hi> and it is re<g ref="char:EOLhyphen"/>ported of one that
+ordered to be writ on his Tomb, That he had li<g ref="char:EOLhyphen"/>ved with his Dear Wife forty
+three years eight months, and never fell out. What a bleſſed
+<hi>Amneſtia</hi> does this noble Conſtitution ſettle a<g ref="char:EOLhyphen"/>mongſt men! And
+the Converſati<g ref="char:EOLhyphen"/>on <pb n="30" facs="tcp:98231:23"/> of a good Wife ſweetens Life, and
+baniſhes vexation; to whom we may tell our diſcontents, and have them
+leſſened, and our joyes, and have them multiplyed: and he that hath a good
+Wiſe, hath two ſelves, and poſſeſſes all his faculties double.</p>
+            <p>
+               <hi>Homer</hi> brings in <hi>Paris</hi> kiſſing
+<hi>Hellena</hi> after ten years Marriage, proteſting as much affection as if
+but newly conjoyned. Like the Old man in <hi>Auſonius,</hi> 
+               <q>
+                  <lg>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>xor vivamus quod vivimus, &amp; moriamur</hi>
+                     </l>
+                     <l>
+                        <hi>Servantes nomen ſumpſimus in thalamo;</hi>
+                     </l>
+                     <l>
+                        <hi>Nec ferat ulla dies ut commutemur in aevo</hi>
+                     </l>
+                     <l>
+                        <hi>Quin tibi ſum Juvenis tuque puella mihi.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <q> 
+                  <lg>
+                     <l>Dear Wife let's live in love, and dye together,</l>
+                     <l>As heretofore we have in all good will;</l>
+                     <l>Let no day change or alter our affections,</l>
+                     <l>But let's be young to one another ſtill.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>
+               <pb n="31" facs="tcp:98231:23"/>Much like the ſaying of <hi>Solomon, And
+rejoice with the Wife of thy Youth,</hi>
+               <note place="margin">Prov. 5.19.</note>
+               <hi>let her be as the loving Hind, and the pleaſant Roe; let her Breaſts
+ſatisfie thee at all times, and be thou raviſhed alwayes with her
+Love.</hi> Here is a mag<g ref="char:EOLhyphen"/>netick and charming quality, a powerful and occult
+motive; and though he rule his Wife as head, yet ſhe again commands his
+Heart; no happineſs like it, <hi>placens <g ref="char:V">Ʋ</g>xor,</hi> a ſweet Wife.</p>
+            <q>Omnis Amor magnus, ſed aperto in conjuga major:</q>
+            <p>No Love ſo ſtrong as this Conju<g ref="char:EOLhyphen"/>gal Love, they being but one
+fleſh are unanimous, and <hi>Gerion</hi>-like,<note place="margin">Amicitiae
+ſymbolum.</note> 
+               <hi>Coaleſcere in <g ref="char:V">Ʋ</g>num,</hi> and have but one Heart in
+two Bodies.</p>
+            <q>Corporibus geminis Spiritus unus erat.</q>
+            <p>And ſo continue in mutual Love, affection and endearments to
+each other; according as the Poet per<g ref="char:EOLhyphen"/>ſonates a Loving Husband: 
+<q>
+                  <pb n="32" facs="tcp:98231:24"/> 
+                  <l>
+                     <note place="margin">
+                        <hi>Propertius.</hi> Lib. 2.</note>Et me ab
+amore tuo deducet nulla ſenectus,</l> 
+                  <l>Sive ego Tythonus ſive ego Neſtor ero.</l> 
+               </q>
+               <q> 
+                  <l>
+                     <hi>No age ſhall part my Love from thee, ſweet
+Wife,</hi>
+                  </l> 
+                  <l>
+                     <hi>Thô I live</hi> Neſtors, <hi>or</hi> Tythonus
+<hi>life.</hi>
+                  </l> 
+               </q>
+            </p>
+            <p>And ſo <hi>è diverſo,</hi> the Woman al<g ref="char:EOLhyphen"/>ſo hath a
+great ſenſe of theſe con<g ref="char:EOLhyphen"/>jugal obligations; ſhe admires her Husband as
+her Head and Protector, and under God a <hi>Melior Natura,</hi> an Auſpicious
+Genius, and Tute<g ref="char:EOLhyphen"/>lar Angel, concern'd for her happi<g ref="char:EOLhyphen"/>neſs, and conſulting
+all the honou<g ref="char:EOLhyphen"/>rable methods for her Preſervati<g ref="char:EOLhyphen"/>on and Comfort: And the Care,
+Diligence and Induſtry of a good Husband, for the Preſervation and
+Happineſs of her, and hers, recom<g ref="char:EOLhyphen"/>mends him the more to her Love and moſt
+endeared affections. She cannot but adore the Divine good<g ref="char:EOLhyphen"/>neſs, that when her
+Parents are dead, and her Friends fail her, that ſhe hath a ſecond Self,
+who is un<g ref="char:EOLhyphen"/>happy if ſhe be miſerable; and under <pb n="33" facs="tcp:98231:24"/> God her
+happineſs in this World depends immediately on the Indu<g ref="char:EOLhyphen"/>ſtry, Sobriety,
+Diligence and Pro<g ref="char:EOLhyphen"/>vidence of her Husband. Man and Wife ſhould reſemble the
+Cheru<g ref="char:EOLhyphen"/>bims in the Temple, which looked on each other; ſo they ſhould love
+and admire each other, and meet half way in the joint Proſecution of both
+their good. The Apoſtle exhorts <hi>Husbands to love their Wives as Chriſt
+loved the Church:</hi>
+               <note place="margin">Eph. 5.25. Col. 3.18.</note> And
+<hi>Wives to ſubmit themſelves to their Huſbands, as it is fit in the
+Lord, and win them by their ſweet Conver<g ref="char:EOLhyphen"/>ſation.</hi> And the Wiſe
+man,<note place="margin">1 Pet. 3.1.</note> in his deſcription of a loving and
+induſtri<g ref="char:EOLhyphen"/>ous Wife; ſays, <hi>She will do him good<g ref="char:punc">▪</g> and not evil all
+her dayes;</hi> And goes on deſcanting on the particu<g ref="char:EOLhyphen"/>lar parts of her good
+houſewifery: And in the 28 <hi>verſe,</hi> Pronounces his bleſſing on
+her;<note place="margin">Prov. 31.10.</note> 
+               <hi>Her Children ariſe up and call
+her bleſſed, her Huſ<g ref="char:EOLhyphen"/>band alſo, and he praiſeth her.</hi> We alſo
+have read of the conſtancy of a <hi>Ruth,</hi> of <hi>Sarah</hi> and
+<hi>Rebecka's</hi> fide<g ref="char:EOLhyphen"/>lity to their Husbands; and in the <hi>Roman</hi>
+Government, the Bride uſed <pb n="34" facs="tcp:98231:25"/> to ſalute her Husband:
+<hi>
+                  <g ref="char:V">Ʋ</g>bi tu Cai<g ref="char:EOLhyphen"/>us,</hi>
+               <note place="margin">Plutarch.</note> 
+               <hi>ego ſemper
+Caia.</hi>
+            </p>
+            <p>It was an excellent Character the Holy Ghoſt gives of
+<hi>Abigal,</hi> that ſhe was a Woman of an excellent Underſtanding, in
+Pacifying <hi>David,</hi> and ſaving her houſe. <hi>Phile</hi> and
+<hi>Zenobia</hi> were exceeding Lovers of their Husbands; and what Lamps of
+Female Glory were the <hi>Corne<g ref="char:EOLhyphen"/>lia</hi>'s, <hi>Panthia</hi>'s,
+<hi>Porcia</hi>'s, and others! and how great an Admiration had that
+<hi>Perſian</hi> Lady for her Husband, when at <hi>Cyrus</hi> his Wedding,
+ſhe was asked, How ſhe lik'd the Bride<g ref="char:EOLhyphen"/>groom; I know not, ſaid ſhe, for
+I ſaw none there, but mine own Husband. And <hi>Plutarch</hi> relates of the
+Love and Wiſdom of the <hi>Cel<g ref="char:EOLhyphen"/>tick</hi> Women, that when their Huſ<g ref="char:EOLhyphen"/>bands
+were involved in a Civil War, by the endeavours and Solicitati<g ref="char:EOLhyphen"/>on of their
+Wives, a Peace was made, and for their Honour and Reward they were admitted to
+the Council. And it was one of the Articles made with <hi>Hannibal,</hi> That
+if the <hi>Cartha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inians</hi> had
+any contro<g ref="char:EOLhyphen"/>verſie with the <hi>Celtians,</hi> it ſhould <pb n="35" facs="tcp:98231:25"/> be decided by the <hi>Celtian</hi> Women; and we find a paſſage
+in <hi>Euripides</hi> to this effect, 
+<q> 
+                  <l>
+                     <hi>Optima viri poſſeſſio uxor benevola,</hi>
+                  </l> 
+                  <l>
+                     <hi>Mittigans iram, &amp; avertens animum ejus à
+triſtitia.</hi>
+                  </l> 
+               </q>
+               <q> 
+                  <l>Mans beſt poſſeſſion is a loving Wife,</l> 
+                  <l>She tempers anger and diverts all ſtrife.</l> 
+               </q>
+            </p>
+            <p>And as in this Conjugal affecti<g ref="char:EOLhyphen"/>on, there is ſuch an egreſs
+and expanſion of the Heart and Spirits to the object loved, and a Love and
+reſpect of that extent, that an <hi>Ovid</hi> can't teach it, nor
+<hi>Solomon</hi> deſcribe, nor <hi>Apelles</hi> paint it; ſo an high care
+and ſolicitation for the well-being and preſervation of each other:<note place="margin">
+                  <p>Res eſt ſol<g ref="char:EOLhyphen"/>liciti plena timoris a<g ref="char:EOLhyphen"/>mor.</p> 
+                  <p>
+                     <hi>Ovids E<g ref="char:EOLhyphen"/>piſt.</hi>
+                  </p>
+               </note> as the Poet well
+de<g ref="char:EOLhyphen"/>ſcribes the jealouſie of <hi>Penelope</hi> for the ſafety of
+<hi>
+                  <g ref="char:V">Ʋ</g>liſſes,</hi> 
+               <q> 
+                  <l>
+                     <hi>In te fingebam violentes Troias ituros,</hi>
+                     <note place="margin">Ovids E<g ref="char:EOLhyphen"/>piſt.</note>
+                  </l> 
+                  <l>
+                     <hi>Nomine in Hectureo, pallida ſemper eram.</hi>
+                  </l> 
+               </q>
+               <q> 
+                  <pb n="36" facs="tcp:98231:26"/> 
+                  <l>How oft my dear <hi>
+                        <g ref="char:V">Ʋ</g>liſſes</hi> did I ſee</l> 
+                  <l>In my ſad thoughts proud <hi>Trojans</hi> ruſh on
+thee,</l> 
+                  <l>And when great <hi>Hectors</hi> but touch'd mine ears,</l> 
+                  <l>My cheeks drew paleneſs from my paler fears.</l> 
+               </q>
+            </p>
+            <p>And as abſence is tedious and unpleaſant, ſo their departure
+each from other afflictive and uneaſie: When <hi>Thais</hi> took her leave of
+<hi>Phae<g ref="char:EOLhyphen"/>dria,</hi> 
+               <q> 
+                  <l>—<hi>Egone quid velim,</hi>
+                  </l> 
+                  <l>
+                     <hi>Noctes dieſque ames me, me deſideres,</hi>
+                  </l> 
+                  <l>
+                     <hi>Me ſomnies, me expectes, me cogites,</hi>
+                  </l> 
+                  <l>
+                     <hi>Me ſperes, me te oblectes, mecum tota ſis,</hi>
+                  </l> 
+                  <l>
+                     <hi>Meus ſac poſtremo animus, quando ego ſum
+tuus.</hi>
+                  </l> 
+               </q>
+               <q> 
+                  <l>Doeſt ask, my Dear, what ſervice I will have,</l> 
+                  <l>To love me day and night is all I crave;</l> 
+                  <l>
+                     <pb n="37" facs="tcp:98231:26"/>To dream on me, to expect, to think on
+me,</l> 
+                  <l>Depend and hope, ſtill covet me to ſee;</l> 
+                  <l>Delight thy ſelf in me, be wholly mine,</l> 
+                  <l>For know, my Love, that I am wholly thine.</l> 
+               </q>
+            </p>
+            <p>But we muſt ſhake off this plea<g ref="char:EOLhyphen"/>ſant Argument, for there's
+no end of it. In ſhort, how have Philoſo<g ref="char:EOLhyphen"/>phers, Hiſtorians and Poets
+cele<g ref="char:EOLhyphen"/>brated this Alliance, this Conjugal Oeconomy; this Divine conſtituti<g ref="char:EOLhyphen"/>on!
+<hi>Dies deficeret &amp; Nox;</hi> we will only give you the rapture of
+<hi>Boae<g ref="char:EOLhyphen"/>thius.</hi>
+            </p>
+            <q>
+               <l>O Faelix hominum genus!</l> 
+               <l>Si veſtros ammos Amor</l> 
+               <l>Quo Caelo regitur, regat.</l>
+            </q>
+            <p>Now two being become one by this Myſterious Conjunction, they
+reciprocally love and mutually af<g ref="char:EOLhyphen"/>fect each other, and jointly promote the
+happineſs of both: the man is obliged to love his Wife, as <hi>Gro<g ref="char:EOLhyphen"/>tius</hi> 
+               <pb n="38" facs="tcp:98231:27"/> ſayes,<note place="margin">Dilectione ſincera,
+caſtâ &amp; perpetuâ, &amp; exemplo ſanctae vitae uxoribus
+praebeat. Spontaneâ nempè vo<g ref="char:EOLhyphen"/>luntate, ag<g ref="char:EOLhyphen"/>noſcentes ordinatio<g ref="char:EOLhyphen"/>nem
+Dei qui id etiam an te peccatum conſtituit.</note> with a chaſte and
+conſtant love, and ſet their Wives the ex<g ref="char:EOLhyphen"/>ample of a Religious Life: And
+the Woman to love, reverence and ſubmit to her Husband, freely and chearfully
+acknowledging the Ordi<g ref="char:EOLhyphen"/>nance of God from the beginning, as <hi>Zanchius</hi>
+directs. And as the Ma<g ref="char:EOLhyphen"/>trimonial honour is to be preſer<g ref="char:EOLhyphen"/>ved inviolable, ſo
+the Holy Ghoſt is pleaſed to repreſent the myſti<g ref="char:EOLhyphen"/>cal Union between
+Chriſt and his Church, by the ſemblance and Ana<g ref="char:EOLhyphen"/>logy of Marriage.<note place="margin">Quo ſpecta<g ref="char:EOLhyphen"/>re videtur, ſequens com<g ref="char:EOLhyphen"/>paratio, de Chriſto
+ec<g ref="char:EOLhyphen"/>cleſiamſuam ſanctifican<g ref="char:EOLhyphen"/>te. <hi>Eſtius</hi> in loc. <hi>Ariſtotle
+Pol.</hi>
+               </note>
+            </p>
+            <p>Now this Love and Affection be<g ref="char:EOLhyphen"/>ing proper to Mankind, is called
+<hi>Amor cognitionis. Leon Hebreus</hi> calls it Rational love, whereby all the
+Affections and Actions are confor<g ref="char:EOLhyphen"/>med to the Object; and this Love the
+Philoſopher ſtyles, <hi>Debitum Na<g ref="char:EOLhyphen"/>turae,</hi> a Debt we owe to Nature, and
+the neglect thereof a treſpaſs againſt Nature; becauſe God is Love it
+ſelf; he made the World out of Love, and wonderfully illu<g ref="char:EOLhyphen"/>ſtrated this Love
+in redeeming of it; and the Emanations of it are viſible in his Divine
+Providence, <pb n="39" facs="tcp:98231:27"/> and in his care and protection of every
+individual, and particle of the Creation.</p>
+            <q> 
+               <l>
+                  <hi>Si rerum quaeris fuerit quis finis &amp; ortus,</hi>
+               </l> 
+               <l>
+                  <hi>Deſine, nam cauſa eſt unica ſolus Amor.</hi>
+               </l>
+            </q>
+            <q> 
+               <l>Doeſt ask the reaſon moved God above</l> 
+               <l>To make the world, the only cauſe was Love.</l> 
+            </q>
+            <p>And here we might enter into a vaſt and Philoſophical Field of
+diſcourſe,<note place="margin">Amor eſt voluntatis affectus. Forma eſt
+vitalis <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul<g ref="char:EOLhyphen"/>gor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ex ipſo bono ema<g ref="char:EOLhyphen"/>nans par I<g ref="char:EOLhyphen"/>deas. <hi>Plato.</hi>
+Pulchritu<g ref="char:EOLhyphen"/>do eſt perfe<g ref="char:EOLhyphen"/>ctio compo<g ref="char:EOLhyphen"/>ſiti, &amp; con<g ref="char:EOLhyphen"/>gruente or<g ref="char:EOLhyphen"/>dine,
+men<g ref="char:EOLhyphen"/>ſurá &amp; ra<g ref="char:EOLhyphen"/>tione parti<g ref="char:EOLhyphen"/>um conſur<g ref="char:EOLhyphen"/>gens.</note> and give you
+the Defini<g ref="char:EOLhyphen"/>tion, diviſion and object of Love; according to <hi>Leon
+Hebreus,</hi> a volun<g ref="char:EOLhyphen"/>tary affection and deſire to enjoy that which was good:
+<hi>Omne pul<g ref="char:EOLhyphen"/>chrum eſt amabile;</hi> and the more fair the object, the more
+deſirable. <hi>Pla<g ref="char:EOLhyphen"/>to</hi> defines Beauty, a reſulting from effaſed good.
+Others call it a perfection of the whole compoſiti<g ref="char:EOLhyphen"/>on; and this Comelineſs
+is called Grace, which joyned with Beau<g ref="char:EOLhyphen"/>ty is like the Shinings that come 
+<pb n="40" facs="tcp:98231:28"/> from a Glorious and Divine Sun; than which admirable
+Beauty, ſays <hi>Socrates,</hi> there is nothing ſo maje<g ref="char:EOLhyphen"/>ſtical, nothing
+ſo ſacred, divine and Lovely, and nothing can charm mankind ſo much. When
+<hi>Xerxes</hi> de<g ref="char:EOLhyphen"/>ſtroyed all the Temples of the <hi>Graeci<g ref="char:EOLhyphen"/>an</hi> Deities,
+he cauſed the Picture of <hi>Diana, in Integrum ſervari,</hi> to be
+ſpared for its Beauty and Maje<g ref="char:EOLhyphen"/>ſty:<note place="margin">Naturae gaudentis
+opus.</note> But how much more charming is natural Beauty, which <hi>Plato</hi>
+calls the Quinteſſence and Triumph of Nature. <hi>Carneades</hi> calls it,
+Still Rethorick, that perſwades without Speech; 'tis a Kingdom without a
+Militia;<note place="margin">Gratior eſt pulchro, ve<g ref="char:EOLhyphen"/>niens è cor<g ref="char:EOLhyphen"/>pore
+virtus. <hi>Vir. Aene<g ref="char:EOLhyphen"/>ads.</hi>
+               </note> which made <hi>Diogenes</hi> call
+Beautiful Women Queens, becauſe all were willing to obey their Com<g ref="char:EOLhyphen"/>mands: and
+the Poet deſcribes <hi>Di<g ref="char:EOLhyphen"/>do</hi>'s aſtoniſhment when ſhe firſt
+be<g ref="char:EOLhyphen"/>held <hi>Aeneas,</hi> 
+               <q>Obſtupuit primo aſpectu Sydonia Dido.</q>
+            </p>
+            <p>So the Woman of <hi>Samaria</hi> was tranſported with the Beauty
+of Chriſt;<note place="margin">Origen.</note> he was <hi>Fairer than the Sons
+of men. Joſeph</hi>'s comelineſs conci<g ref="char:EOLhyphen"/>liated <pb n="41" facs="tcp:98231:28"/> his
+Favour in the <hi>Aegypti<g ref="char:EOLhyphen"/>an</hi> Court:<note place="margin">Lib. de pul. Jeſ.
+&amp; Mar.</note> How much doth <hi>P. Mo<g ref="char:EOLhyphen"/>rales</hi> admire the Beauty and
+Luſtre of the Virgin <hi>Mary! Anthony</hi> ad<g ref="char:EOLhyphen"/>mired <hi>Cleopatra,</hi> and
+<hi>Theſeus</hi> was charmed with <hi>Hellena.</hi> And though the Mind is
+not occaſioned by the Body, yet Philoſophy tells us it follows the
+temperament of it; and where the external Qualities are ſo beautiful, we may
+gueſs at the Judgment, concluding that the love<g ref="char:EOLhyphen"/>ly diſpoſitions of the
+Soul quick<g ref="char:EOLhyphen"/>neth and animates the outward Graces; and there being ſo ſtrong
+a love between the Body and Soul, we may from thence preſume of a
+ſimilitude in the Qualities of the Soul, with thoſe lovely impreſſions
+of nature we find in the Body.</p>
+            <p>Now <hi>Leon Hebreus</hi> divides Love into three parts, Natural,
+Sen<g ref="char:EOLhyphen"/>ſible, and Rational: Natural Love is ſeen in the Elements, Sun, Moon
+and Stars, in Mettals and Stones; <hi>gravia tendunt deorſum;</hi> Fire
+upwards, and in Vegetables, as be<g ref="char:EOLhyphen"/>fore. Senſible Love in brute Beaſts, for
+the preſervation of the Speci<g ref="char:EOLhyphen"/>es; <pb n="42" facs="tcp:98231:29"/> and Rational, which
+was hand<g ref="char:EOLhyphen"/>led before, as proper to Mankind; but then only reſpecting
+<hi>Philan<g ref="char:EOLhyphen"/>thropy,</hi> the love of men to their own Species; whereas the
+affecti<g ref="char:EOLhyphen"/>ons of men are likewiſe dilated on things as well as perſons. We
+ad<g ref="char:EOLhyphen"/>mire Virtue, Wiſdom, Eloquence, Profit, Wealth, Honour, Beauty,
+Friendſhip, Charity, and other things, Arts and Sciences; but we only name
+them, each head would take up a copious diſcourſe by it ſelf. And
+pleading <hi>Peccavi</hi> for this pleaſant digreſſion, we return to
+proſecute the remaining Effects of Marriage: And the next is Chil<g ref="char:EOLhyphen"/>dren.</p>
+            <p>When he ſees thoſe fine and ela<g ref="char:EOLhyphen"/>borate pieces of himſelf,
+whom God hath graciouſly given him, how does he adore the Divine Goodneſs
+that made him a Father, and Inſtrument to preſerve by a continued
+Suc<g ref="char:EOLhyphen"/>ceſſion Gods Church in the World! and how is he obliged to give down to
+his Off-ſpring thoſe Precepts and Inſtitutes for Gods glory, their good
+and advantage, he received <pb n="43" facs="tcp:98231:29"/> from his Anceſtors! Children
+are the bleſſing of their Parents, and a good Parent a bleſſing to his
+Chil<g ref="char:EOLhyphen"/>dren. When God bleſſed our firſt Parents, 'twas thus: <hi>Be
+fruitful,</hi>
+               <note place="margin">
+                  <hi>Gen. 1.28.</hi> Signifi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at ſecundita<g ref="char:EOLhyphen"/>tem omnem<g ref="char:EOLhyphen"/>que favo<g ref="char:EOLhyphen"/>rem,
+&amp; co<g ref="char:EOLhyphen"/>piam, &amp; quae Deus illis omnia laeta, &amp; pauſta pre<g ref="char:EOLhyphen"/>catus
+fuit. <hi>Paulus Fa<g ref="char:EOLhyphen"/>gius, in Locum. Gen. 22.17.</hi>
+               </note> 
+               <hi>and multiply,
+and repleniſh the earth;</hi> which Bleſſing, as a learned man tells us,
+ſignifies all Fruitfulneſs, Favour and Plenty; and that God would heap on
+them all Joys and Proſperity: ſo that the bleſſing of Children and all
+other Enjoy<g ref="char:EOLhyphen"/>ments, are annext to Marriage. So when God bleſſed <hi>Abraham;
+In bleſſing I will bleſs thee, and in mul<g ref="char:EOLhyphen"/>tiplying I will multiply thy
+ſeed as the Stars in Heaven, and as the ſand on the Sea-ſhore, and thy
+ſeed ſhall poſ<g ref="char:EOLhyphen"/>ſeſs the Gate of his Enemies:</hi> The words are an
+Hebraiſm, <hi>verbalia addita verbis;</hi> which ſignifies Gods earneſt
+reſolutions to Bleſs <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> and his Seed after him: The
+<hi>Hebrews</hi> obſerved a Conveniency be<g ref="char:EOLhyphen"/>tween the forms of expreſſion
+and the thing expreſt: So when Chriſt ſaid,<note place="margin">
+                  <hi>Luke
+22.</hi> Cordis &amp; Oris oratio<g ref="char:EOLhyphen"/>nem notat.</note> 
+               <hi>With deſire I have
+de<g ref="char:EOLhyphen"/>ſired; Aquinas</hi> noteth on the place, that the Heart and Tongue both 
+<pb n="44" facs="tcp:98231:30"/> Prayed: And <hi>David</hi> expreſſeth the goodneſs
+of God to the Seed of <hi>Abraham;</hi>
+               <note place="margin">Pſal. 105.6, 8, 9,
+10, 11.</note> 
+               <hi>O ye ſeed of Abraham his Servant, and ye ſeed of Jacob
+his Choſen, he hath remembred his Cove<g ref="char:EOLhyphen"/>nant for ever; the word which he
+com<g ref="char:EOLhyphen"/>manded to a Thouſand Generations; which Covenant he made unto Abra<g ref="char:EOLhyphen"/>ham,
+and his Oath unto Iſaac, and confirmed the ſame unto Jacob for a Law, and
+to Iſrael for an everlaſting Covenant, ſaying, <g ref="char:V">Ʋ</g>nto thee will I give
+the land of Canaan, the lot of your Inheritance.</hi>
+            </p>
+            <p>And when God bleſſed <hi>Jacob, I will pour my Spirit on thy
+ſeed,</hi>
+               <note place="margin">Iſa. 44.3.</note> 
+               <hi>and my bleſſing on
+thine Off-ſpring.</hi>
+            </p>
+            <p>Now as theſe are the Promiſes and Bleſſings of God on the
+one hand, ſo 'tis the Parents Duty on the other to expreſs their
+Obligations and Thankfulneſs in the Education and Care of their
+Children;<note place="margin">Prov 20.3.</note> like <hi>Solomon's Juſt
+man,</hi> who <hi>walketh in his Integrity, and his Children are bleſſed
+after him.</hi> How does he conſult all wayes and me<g ref="char:EOLhyphen"/>thods to make his
+Children tru<g ref="char:EOLhyphen"/>ly happy! By Integrity we may <pb n="45" facs="tcp:98231:30"/> underſtand
+that faithfulneſs a Fa<g ref="char:EOLhyphen"/>ther oweth to his Children, in giving them a religious
+and ſober Education: Nurture is as neceſſa<g ref="char:EOLhyphen"/>ry for Children as
+Nouriſhment, which if Parents neglect, they are <hi>Peremtores potius quam
+parentes,</hi>
+               <note place="margin">Qûo ſemel eſt imbuta recens
+ſer<g ref="char:EOLhyphen"/>vabit odo<g ref="char:EOLhyphen"/>rem teſta diu. <hi>Prov. 22.6.</hi>
+               </note> ra<g ref="char:EOLhyphen"/>ther Paricides
+than Parents: but the good Father takes <hi>Solomon</hi>'s Advice, and trains
+up his Child in the way he ſhould goe; and with that wiſe <hi>Spartan</hi>
+Prince, when he was asked what he ſhould teach his Children, made
+Anſwer,<note place="margin">Ageſilaus.</note> 
+               <note place="margin">Xenoph.</note> 
+               <hi>Thoſe things that they
+ſhould make uſe of when they became men:</hi> For Youth is like ſoft
+Wax,<note place="margin">Tanquam abraſa ta<g ref="char:EOLhyphen"/>bula.</note> takes any
+Im<g ref="char:EOLhyphen"/>preſſion; therefore it ought to be ſeaſon'd with Religion and
+Learn<g ref="char:EOLhyphen"/>ing; as the Spring is the fitteſt ſeed-time for Grain and Planting,
+ſo Youth is the moſt convenient ſea<g ref="char:EOLhyphen"/>ſon to ſcatter the Seeds of
+Know<g ref="char:EOLhyphen"/>ledge upon the ground of the mind.</p>
+            <p>And this Integrity alſo takes in the good Example of the Parent,
+for good Examples are very pre<g ref="char:EOLhyphen"/>valent with Children. It is record<g ref="char:EOLhyphen"/>ed 
+<pb n="46" facs="tcp:98231:31"/> for the honour of <hi>Joſhua,</hi>
+               <note place="margin">Magis in<g ref="char:EOLhyphen"/>tuentur quod fecit Jupiter quam quid docuit
+<hi>Plato.</hi>
+               </note> that he took care of his Children, and 'twas his good
+reſolution, That he and his Houſe would ſerve the Lord: <hi>Lycurgus</hi>
+commanded all his Citizens to dine publickly, where their Children heard no
+idle Speech<g ref="char:EOLhyphen"/>es, but grave diſcourſe about the Go<g ref="char:EOLhyphen"/>vernment of the
+Common-wealth. The good Parent is an utter Ene<g ref="char:EOLhyphen"/>my to evil Cuſtoms, he well
+knows what arguments are brought from thence to ſupport ill actions; for
+Cuſtome (as the Lord <hi>Verulam</hi> calls it) is the dumb Idol of the
+world,<note place="margin">Idolum Theatri.</note> the great Mart of Error,
+wherein Men unthriftily take up on truſt, and at laſt break by too much
+re<g ref="char:EOLhyphen"/>lying on the bankrupt ſecurity of a Faſhion; the <hi>Ignis fatuus</hi>
+and blaze men play about, as Flies about a Candle, 'till they burn their wings:
+He will therefore be ſure to give his Children a good Example, and aboliſh
+bad Cuſtomes. <hi>Virgil</hi> brings in <hi>Aeneas</hi> adviſing his Son
+<hi>Aſca<g ref="char:EOLhyphen"/>nius;</hi> 
+               <q>
+                  <l>
+                     <note place="margin">Lib. 12.</note>
+                     <hi>Diſce puer virtutem ex
+me, veroſque labores.</hi>
+                  </l> 
+                  <l>
+                     <pb n="47" facs="tcp:98231:31"/>Virtue and Patience learn of me, my
+Son.</l>
+               </q>
+            </p>
+            <p>So <hi>Homer</hi> repreſents <hi>Hector</hi> Pray<g ref="char:EOLhyphen"/>ing for his
+Son; 
+<q>
+                  <l>Let it be ſaid, here's a good Son indeed,</l> 
+                  <l>That did his noble Father far exceed.</l>
+               </q>
+            </p>
+            <p>And if Heathens profeſt this ſort of Piety, how much more
+ſhould Chriſtian Parents bring up their Children in the Admonition, and
+Fear of the Lord! How much was it to the honour and glory of <hi>Abraham,</hi>
+when God gives this Teſtimony of him! <hi>For I know him,</hi>
+               <note place="margin">Gen. 18.19</note> 
+               <hi>that he will command his Children, and his
+Houſhold after him, and they ſhall keep the way of the Lord, and do
+ju<g ref="char:EOLhyphen"/>ſtice and Judgment, that the Lord may bring upon Abraham that which he
+hath ſpoken of him.</hi> Which was, that in him ſhould all the Fami<g ref="char:EOLhyphen"/>lies of
+the Earth be bleſſed; As if God ſhould argue, How ſhall I ful<g ref="char:EOLhyphen"/>fill my
+promiſe to <hi>Abraham,</hi> unleſs <hi>Abraham</hi> inſtruct his
+Children? and <pb n="48" facs="tcp:98231:32"/> what Parent will Wilfully ob<g ref="char:EOLhyphen"/>ſtruct his
+own and Childrens hap<g ref="char:EOLhyphen"/>pineſs?<note place="margin">1 Kings 2.2, 3.</note> So
+<hi>David</hi> charged <hi>Solomon: Be thou ſtrong therefore, and ſhew thy
+ſelf a man: And keep the charge of the Lord thy God, to walk in his ways, to
+keep his Statutes, his Judge<g ref="char:EOLhyphen"/>ments, and his Teſtimonies, as it is written in
+the Law of Moſes:</hi> and that he might the rather embrace his charge, he
+adds the reaſon, <hi>that thou maiſt proſper in all thou
+doeſt,</hi>
+               <note place="margin">Majori ſol<g ref="char:EOLhyphen"/>licitudine me parturi<g ref="char:EOLhyphen"/>ebat Spiritu
+quam pepe<g ref="char:EOLhyphen"/>rat carne, parturiebat carne ut in hanc tempo<g ref="char:EOLhyphen"/>ralem na<g ref="char:EOLhyphen"/>ſcerer corde
+ut in aeter<g ref="char:EOLhyphen"/>nam lucem re naſcerer. <hi>Aug. Lib. 2.</hi> confeſ. <hi>ch.
+3.</hi>
+               </note> 
+               <hi>and whitherſoever thou turn<g ref="char:EOLhyphen"/>eſt thy ſelf:</hi> And St.
+<hi>Auſtin</hi> reports of his Mother <hi>Monica,</hi> that ſhe ceaſed
+not do her endeavours eve<g ref="char:EOLhyphen"/>ry way, that he might be truly religious, and as well
+Gods Child by Grace as hers by Nature. This is that Domeſtick care that is
+in<g ref="char:EOLhyphen"/>cumbent on all Parents, to teach their Children their Duty to God himſelf,
+to Honour their Parents, to reverence their Superiours, be courteous to their
+Equals, and that in all their Actions, they ſhould have <hi>Oculi in
+Metam,</hi> and ſo be <hi>recti in curiâ:</hi> the Wiſe-man alſo
+tells us, what Inſtructions he re<g ref="char:EOLhyphen"/>ceived <pb n="49" facs="tcp:98231:32"/> from his
+Parents:<note place="margin">Prov. 4.</note> To ſtudy Wiſdom and to ſhun
+the path of the Wicked; and further tells us, that <hi>whoſo loveth Wiſdom
+rejoyceth his Father;</hi>
+               <note place="margin">
+                  <hi>chap.</hi> 29.</note> and this
+Wiſdom is the fear of the Lord, as we find after<g ref="char:EOLhyphen"/>wards: <hi>The fear of the
+Lord,</hi>
+               <note place="margin">Prov. 9.10.</note> 
+               <hi>that is Wiſdom, and the
+Knowledge of the Holy is <g ref="char:V">Ʋ</g>nderſtanding.</hi>
+            </p>
+            <p>The good Parent well conſiders Religion as moſt eſſential
+to his Childrens Happineſs; that in the end of their days, when all other
+things fail, then God may be the ſtrength of their Heart, and their Portion
+for ever.</p>
+            <p>That <hi>Antiſtes Sacrorum,</hi> the Re<g ref="char:EOLhyphen"/>verend Dr.
+<hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> uſed prayer in his Family four times a day, and on
+<hi>Frydays</hi> Cathechized them; as remembring that charge, which God
+commanded the old <hi>Iſraelites, Theſe Words which I command thee this
+day, ſhall be in thine Heart.</hi>
+               <note place="margin">Deut. 6.6, 7.</note>
+               <hi>And thou ſhalt teach them diligently to thy Children, and thou ſhalt
+talk of of them when thou ſitteſt in thine houſe, and when thou walkeſt
+by the way, and when thou lieſt down, and when thou <pb n="50" facs="tcp:98231:33"/>
+riſeſt up.</hi> And next after Religion his care is manifeſt, to learn
+them Arts and Sciences, knowing that Ignorance brings Idleneſs, Idleneſs
+brings ill Company, which the De<g ref="char:EOLhyphen"/>vil uſeth as an Engine to Dethrone men from
+the ſafe and honourable ſeat of Virtue to the precipice of ruine and
+deſtruction, and ſo enchanting their Underſtanding, their Miſery
+attends them <hi>incognito;</hi> whereas good and wiſe Aſſociates are our
+ſecond Genius to good<g ref="char:EOLhyphen"/>neſs;<note place="margin">Phil. de Co<g ref="char:EOLhyphen"/>mines. <hi>Ab.
+34.</hi>
+               </note> or as another expreſſeth it, 'Tis an Indication of a good
+and virtuous diſpoſition, to chooſe learned and virtuous Companions:
+which made <hi>Alexander</hi> ſo highly eſteem <hi>Ariſtotle,
+Themiſtocles</hi> his <hi>Anaxagoras,</hi> and <hi>Scipio</hi> his
+<hi>Canutius.</hi> And he recommends virtue to them, as the complement of a
+happy life, and only Immortal thing that be<g ref="char:EOLhyphen"/>longs to Mortality, and
+repreſents it to them with ſuch Beauty and Majeſty, that it muſt needs
+conci<g ref="char:EOLhyphen"/>liate Love and Veneration; and be<g ref="char:EOLhyphen"/>ing a Charm ſo powerful, the
+af<g ref="char:EOLhyphen"/>fected Soul admires it, as the La<g ref="char:EOLhyphen"/>dy <pb n="51" facs="tcp:98231:33"/> and Queen of an
+Intellectual Beauty.</p>
+            <p>He well knows that Nature has, as it were, of purpoſe left many
+things for Art and Induſtry to fi<g ref="char:EOLhyphen"/>niſh and make up; and as 'tis Arts duty
+to imitate Nature, ſo 'tis its dignity to perfect it: Nature gives in the
+Oar, but Induſtry refines it into Silver. God hath beſtowed on his Children
+the Light of Na<g ref="char:EOLhyphen"/>ture, and the Underſtanding of a Reaſonable Being, and
+though by Original Sin this Light be eclipſed, this Underſtanding and
+Reaſon wi<g ref="char:EOLhyphen"/>ther'd, there is the more need of ſupernatural accompliſhments.
+Arts and Sciences poliſh and improve Nature, and confer a great help and
+furtherance thereunto, and cure the diſeaſes of our Minds: as it was ſaid
+of <hi>Demoſthenes,</hi> that Na<g ref="char:EOLhyphen"/>ture brought forth one
+<hi>Demoſthenes,</hi> and Learning another, his Intelle<g ref="char:EOLhyphen"/>ctuals were ſo
+improved by his ſtu<g ref="char:EOLhyphen"/>dies. He recommends therefore to his Children the ſtudy
+of the Scriptures and practical Divinity, commends the devotion of a
+<hi>Nu<g ref="char:EOLhyphen"/>ma,</hi> 
+               <pb n="52" facs="tcp:98231:34"/> the Juſtice of an <hi>Ariſtides,</hi>
+the good Laws of a <hi>Solon,</hi> the Pru<g ref="char:EOLhyphen"/>dence of a <hi>Cato,</hi> the
+Courage of a <hi>Scipio,</hi> the Moderation of a <hi>Fabius,</hi> and the
+publick Spirit of a <hi>Cice<g ref="char:EOLhyphen"/>ro;</hi> and commends Learning, that is the only
+thing to enrich their minds with ſuch precious furniture, that
+<hi>Alexander</hi> profeſs'd he had ra<g ref="char:EOLhyphen"/>ther excell in Wiſdom than Pow<g ref="char:EOLhyphen"/>er,
+and as that which promotes the civil end of our Life: <hi>
+                  <g ref="char:V">Ʋ</g>t in honore cum
+dignitate vivamus;</hi> and that a man without Underſtand<g ref="char:EOLhyphen"/>ing is like the
+Beaſts that periſh: therefore he is highly ſollicitous to inſtruct his
+Children, with the Emanations of Divine Wiſdom, the <hi>Ideas</hi> of
+Morality, the Simples of Science, the Flowers of Retho<g ref="char:EOLhyphen"/>rick, Reaſon and
+Philoſophy, and to build them up into the Gallan<g ref="char:EOLhyphen"/>try and Perfection of men.
+How does he ſet before them, that Learning was the Glory of <hi>Scipia
+Affricanus, Charles</hi> the Great, <hi>Ti<g ref="char:EOLhyphen"/>tus Veſpatian, Charles</hi> the
+fifth, and our late King <hi>James!</hi> and how much Hiſtorians, Poets and
+Philo<g ref="char:EOLhyphen"/>ſophers <pb n="53" facs="tcp:98231:34"/> have celebrated the Glories of the
+Learned; and by this ſtir up the genius of his own Children to an Emulation
+of their virtues. And we read of great Perſonages that taught their Children
+them<g ref="char:EOLhyphen"/>ſelves: <hi>Auguſtus Caeſar</hi> read <hi>Cicero</hi> and
+<hi>Virgil</hi> to his Children, and of a <hi>Grecian</hi> Emperour, that
+taught his Daughter himſelf: and Biſhop <hi>Jew<g ref="char:EOLhyphen"/>el</hi> cites her in his
+Apology, as Au<g ref="char:EOLhyphen"/>thor of a Church Hiſtory: ſo <hi>Paulus Aemilius</hi>
+inſtructed his Children in the Latin and Greek Tongues: And Sir <hi>Tho.
+Moor</hi> when Lord Chan<g ref="char:EOLhyphen"/>cellour taught his three Daughters, and
+<hi>Buchanal</hi> relates of the admi<g ref="char:EOLhyphen"/>rable Learning of Sir <hi>Anthony
+Cooks</hi> Children, inſtructed by their Fa<g ref="char:EOLhyphen"/>ther.</p>
+            <p>And as theſe things are incumbent on Parents, ſo 'tis the
+Childrens happineſs to have ſuch Watches over them: having touched at the
+Juſt mans Integrity, the Wiſe man adds this, His <hi>Children are
+bleſ<g ref="char:EOLhyphen"/>ſed after him.</hi> 'Tis indeed a great bleſſing to Children, to
+have Wiſe and Religious Parents; and when <pb n="54" facs="tcp:98231:35"/> they ſit at
+the feet of ſuch <hi>Ga<g ref="char:EOLhyphen"/>maliels,</hi> they enjoy that Happi<g ref="char:EOLhyphen"/>neſs the Queen
+of <hi>Sheba</hi> pronoun<g ref="char:EOLhyphen"/>ced on <hi>Solomon</hi>'s Servants,<note place="margin">1 Kings 10.8.</note> 
+               <hi>Hap<g ref="char:EOLhyphen"/>py are thy Men, happy are theſe thy
+Servants, that ſtand continually before thee, and hear thy Wiſdom.</hi> And
+as a grateful acknowledge<g ref="char:EOLhyphen"/>ment of their Obligations, they ought to give their
+Parents all Du<g ref="char:EOLhyphen"/>ty, Honour and Reverence. 'Tis the Apoſtles exhortation,
+<hi>Honour thy Father and thy Mother, this is the firſt commandment with
+Promiſe:</hi> And whats that? <hi>That thy days may be long in the Land.</hi>
+And this promiſe were ſufficient if all duty were ſu<g ref="char:EOLhyphen"/>perſeded. And the
+wiſe man ex<g ref="char:EOLhyphen"/>horts us, <hi>Honour thy Father that be<g ref="char:EOLhyphen"/>gat thee, and deſpiſe
+not thy Mother when old:</hi> And indeed the Book of <hi>Proverbs</hi> is full
+of ghoſtly advice to Children; and 'tis but common gratitude, to be thankful
+to them who gave them being, and by In<g ref="char:EOLhyphen"/>ſtruction in Religion and Learning
+they give them alſo well-being; with what ardent affection and am<g ref="char:EOLhyphen"/>bition
+ought they to anſwer the <pb n="55" facs="tcp:98231:35"/> expectations of their Parents,
+con<g ref="char:EOLhyphen"/>ſonant to the Apoſtles exhortati<g ref="char:EOLhyphen"/>on;<note place="margin">Col.
+3.20.</note> 
+               <hi>Children obey your Parents in all things, for this is well
+pleaſing to God.</hi>
+            </p>
+            <p>But we will paſs on to proſecute our further diſcourſe;
+only let us hear <hi>Plato's</hi> opinion about the Go<g ref="char:EOLhyphen"/>vernment of Youth: In
+the Foun<g ref="char:EOLhyphen"/>dation of Youth, ſays he, well ordered and taught, conſiſts the
+flouriſhing of a Common-wealth. And indeed he is altogether in the right; for
+the Education and Go<g ref="char:EOLhyphen"/>vernment of Youth, is like the pre<g ref="char:EOLhyphen"/>paring and poliſhing
+Stones and Utenſils for ſome magnificent Fa<g ref="char:EOLhyphen"/>brick: And here we could wiſh
+eve<g ref="char:EOLhyphen"/>ry Family a little Seminary of Religion and Learning, for the ſervice of
+Church and State; as our Univerſities are for the accom<g ref="char:EOLhyphen"/>pliſhment of
+Perſons for Sacred and Civil Offices: And we find <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> of the
+ſame Judgment; and tells us, that Education and Learn<g ref="char:EOLhyphen"/>ing reform the Life and
+Manners, and afford the beſt advice for the Government of a Common-wealth: 
+<pb n="56" facs="tcp:98231:36"/> And we thence inferr, that a re<g ref="char:EOLhyphen"/>formed Life and Manners,
+not only produce an Excellent Oeco<g ref="char:EOLhyphen"/>nomy and Inſtitution of Govern<g ref="char:EOLhyphen"/>ment, but
+are the moſt ſerviceable and adventitious helps to preſerve the Unity and
+Beauty of ſuch ad<g ref="char:EOLhyphen"/>miniſtrations, and infallibly annex Happineſs and
+Proſperity to ſuch a People.</p>
+            <p>And if good Government and Diſcipline were obſerved in
+Fa<g ref="char:EOLhyphen"/>milies, how much would it con<g ref="char:EOLhyphen"/>duce to publick advantage? As in an Army, what
+glorious encounters are they ſit for, when the Gene<g ref="char:EOLhyphen"/>ral underſtands his
+Intereſt and Station, and all his Souldiers per<g ref="char:EOLhyphen"/>fectly underſtand their
+Poſts, all expert and acute in Military un<g ref="char:EOLhyphen"/>dertakings. So in a State, when
+all are ſit to rule, and all willing to obey their Prince;<note place="margin">Imperatoris faelicitas in ſubditorum faelicitate conſiſtat.
+<hi>Grotius. Lipſ. Polit.</hi>
+               </note> whoſe hap<g ref="char:EOLhyphen"/>pineſs conſiſts in
+the happineſs of his People, as <hi>Grotius</hi> tells us; and
+<hi>Lipſius</hi> calls it, <hi>Verum &amp; legitimum Imperium:</hi> A true
+and lawful Em<g ref="char:EOLhyphen"/>pire ſo governed. Now when the People are taught to be
+religious, <pb n="57" facs="tcp:98231:36"/> Religion muſt needs flouriſh; and when they
+are inſtructed in Arts and Sciences, Trades and Com<g ref="char:EOLhyphen"/>merce, it muſt needs
+conduce to their happineſs, profit, honour and greatneſs.</p>
+            <p>We all know, that thoſe States thrived beſt, that were moſt
+addict<g ref="char:EOLhyphen"/>ed to the ſervice of their Gods: <hi>Rome</hi> ſaw her beſt dayes
+when Re<g ref="char:EOLhyphen"/>ligion flouriſht there under a <hi>Nu<g ref="char:EOLhyphen"/>ma, Auguſtus, Titus,
+Conſtantine, Theodoſius,</hi> and others: And <hi>Bodin</hi> gives us the
+reaſons of it;<note place="margin">Ab câ enim ſubditorum fides in
+Principes obedientia erga Ma<g ref="char:EOLhyphen"/>jeſtratus pietas in Parentes, charitas in
+ſingulos, &amp; juſtititia in omnes pen<g ref="char:EOLhyphen"/>det de Re<g ref="char:EOLhyphen"/>bus. <hi>Lib.
+7.</hi>
+               </note> From hence, ſays he, they became Loyal to their Prince,
+Obedient to the Magiſtrate, Dutiful to Parents, Charitable to all, with an
+equal diſtribution of Juſtice: and by theſe adminiſtrations they
+exceeded other Nations, as <hi>Martial</hi> ſets them out.</p>
+            <q> 
+               <l>
+                  <hi>Terrarum Dea, gentiumque Roma,</hi>
+               </l> 
+               <l>
+                  <hi>Cui par eſt nihil, &amp; nihil ſecundum.</hi>
+               </l> 
+            </q>
+            <q> 
+               <l>
+                  <hi>Rome</hi> of all Nations is the Lady Queen,</l> 
+               <l>To which the like, or ſecond, is not ſeen.</l> 
+            </q>
+            <p>
+               <pb n="58" facs="tcp:98231:37"/>
+               <note place="margin">Hac enim ſola Roma<g ref="char:EOLhyphen"/>na
+gens to<g ref="char:EOLhyphen"/>tam terra<g ref="char:EOLhyphen"/>rum orbem ſub<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>git. <hi>Bodin.</hi>
+               </note>They exceeding other Nations in Piety, as
+one obſerves; by this they conquered all the world be<g ref="char:EOLhyphen"/>ſides. And St.
+<hi>Chryſoſtome</hi> tells us, that Princes without learning and the fear
+of God, manage but lame<g ref="char:EOLhyphen"/>ly their greateſt Affairs, and are blind in
+diſcretion and knowledge: The Piety of an <hi>Ageſilaus,</hi> brought him
+both Honour and Succeſs; the Devotion of a <hi>Numa</hi> and a
+<hi>Fabius,</hi> made them formidable and glorious: And we have read of a Law
+of one of our <hi>Daniſh</hi> Kings, that at the Aſſizes the Biſhop was
+obliged to accompany the Judge, that the one might countenance Gods Law, and
+the other Mans; in Imitation of <hi>Jehoſaphat,</hi> who ſent the
+<hi>Levites</hi> with his Princes,<note place="margin">2 Chron. 17.6.</note> to
+teach in the Cities of <hi>Judah.</hi> We paſs over the Piety of
+<hi>Charles</hi> the great, who uſed to ſet his Crown on the Bible; of
+<hi>Edward</hi> the Sixth, and Queen <hi>Elizabeth,</hi> who when the Bible was
+preſent<g ref="char:EOLhyphen"/>ed to her by the Citizens of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> kiſs'd it, and laid
+it to her <pb n="59" facs="tcp:98231:37"/> Breaſts: and the Examples of Prin<g ref="char:EOLhyphen"/>ces are of
+great force to promote Devotion in the People. <hi>Regis ad Exemplum,</hi> was
+a ſaying of old, and all Ages have confirmed it.</p>
+            <p>Now when Religion is ſettled, it produces peace and a general
+hap<g ref="char:EOLhyphen"/>pineſs, which produceth peaceable Society, the Improvement of Arts and
+Sciences, Trade and Com<g ref="char:EOLhyphen"/>merce, and on theſe depend the happineſs of a
+State. We paſs over the ſad effects of War and Hoſtility, of Rapine and
+Blood<g ref="char:EOLhyphen"/>ſhed, and all thoſe <hi>Evertores horri<g ref="char:EOLhyphen"/>fici,</hi> thoſe
+Devaſtations which ſuc<g ref="char:EOLhyphen"/>ceed it. How are Temples and An<g ref="char:EOLhyphen"/>tiquities razed to
+the ground, and Religion ſpuriated into Hereſie and Schiſm; all which
+ceaſe, by reaſon the cauſe is taken away, and the State preſerved from
+Forreign In<g ref="char:EOLhyphen"/>vaſions and Civil Diſſenſions.</p>
+            <p>Here we may ſee how things are chained and linkt together, and
+how naturally effects flow from their cauſes; and how Family-go<g ref="char:EOLhyphen"/>vernment,
+where the Father go<g ref="char:EOLhyphen"/>verns his Children, and they again <pb n="60" facs="tcp:98231:38"/>
+obey their Parents, bears ſo ſtrict an Analogy and ſemblance between a
+Prince and his People; and Fa<g ref="char:EOLhyphen"/>mily-government, a little Model and pattern of
+National Diſcipline, which was erected firſt from Pa<g ref="char:EOLhyphen"/>ternal
+Adminiſtrations: For 'till <hi>Nimrod</hi>'s time, who Erected the firſt
+Monarchy National, <hi>Noah</hi> and his Generations, as <hi>Paraeus</hi> tells
+us,<note place="margin">Par fami<g ref="char:EOLhyphen"/>lias
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>Paraeus in
+Gen.</hi>
+               </note> did rule gently by their Families.</p>
+            <p>But in Proceſs of time the World growing exceeding Populous,
+thô the ſeveral Families of the Earth did, and doe retain their
+Oeco<g ref="char:EOLhyphen"/>nomy, and firſt Preſcriptions for their particular Order and Deco<g ref="char:EOLhyphen"/>rum;
+they are ſince Politically uni<g ref="char:EOLhyphen"/>ted, and a whole Land or Nati<g ref="char:EOLhyphen"/>on under an
+Uniformity of Go<g ref="char:EOLhyphen"/>vernment, and as it were ſo ma<g ref="char:EOLhyphen"/>ny thouſands of Families
+incorpo<g ref="char:EOLhyphen"/>rated into one Body, for a com<g ref="char:EOLhyphen"/>mon Strength and Preſervation. Here
+the Sagacity of Man under the Divine Conduct is very viſi<g ref="char:EOLhyphen"/>ble,<note place="margin">Vis unita f<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tim.
+<hi>Lord</hi> Ba<g ref="char:EOLhyphen"/>con<hi>'s Eſ<g ref="char:EOLhyphen"/>ſſays.</hi>
+               </note> all Eſtates
+ſubſcribe to Unity, as the Mother and Foundation of <pb n="61" facs="tcp:98231:38"/>
+Concord and Preſervation; and by this Polity, not only Sacred and Civil
+Rights are preſerved, but ſettled and confirmed; and <hi>Nimrod</hi> was
+the firſt Proſecutor hereof, and changed the Paternal Govern<g ref="char:EOLhyphen"/>ment into
+National Monarchy; and the Genius of his aſpiring Nature inſtructed him in
+this principle of Policy; which very word is de<g ref="char:EOLhyphen"/>rived from the Greek
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to Sell, whence <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a City, and
+metony<g ref="char:EOLhyphen"/>mically taken to ſignifie Commerce and Trade in a Society of men,
+which did enſue, and was in the greateſt meaſure augmented by Na<g ref="char:EOLhyphen"/>tional
+Government. Now this <hi>Nimrod</hi> in Scripture is ſtyled a mighty
+Hunter:<note place="margin">Viribus ro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtis, &amp; <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+diſ<g ref="char:EOLhyphen"/>cretus. <hi>To<g ref="char:EOLhyphen"/>ſtatus in loc.</hi>
+               </note> And <hi>Toſtatus</hi>
+ſpeaks of him, being ſtrong in Bo<g ref="char:EOLhyphen"/>dy, and Diſcreet in mind, by the Engine
+of his Wit, and Art of Gratification, and by heaping good turns on Injured
+Perſons, did en<g ref="char:EOLhyphen"/>gage a multitude to his Party,<note place="margin">
+                  <g ref="char:V">Ʋ</g>nde
+do<g ref="char:EOLhyphen"/>minandi Occaſionem na<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius,
+reg<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m obtulit. <hi>Muſcul. in
+loc.</hi>
+               </note> by whoſe aſſiſtance he purſued men as a Hunter does
+Beaſts: where<g ref="char:EOLhyphen"/>upon, ſayes <hi>Muſculus,</hi> he obtain<g ref="char:EOLhyphen"/>ed a Kingdom by
+his Valour and <pb n="62" facs="tcp:98231:39"/> Victory, the rude and barbarous People
+being reduced to Civil Go<g ref="char:EOLhyphen"/>vernment;<note place="margin">Muſculus, <hi>St.</hi>
+Chryſo<g ref="char:EOLhyphen"/>ſtome, Cornelius a Lapide, Mercer <hi>and</hi> Rivet <hi>in
+Locum.</hi>
+               </note> which Conqueſt by moſt Commentators is aſcribed to the
+Vigour of his Body, and Virtue of his Mind; ſurpaſſing others by his
+Humanity and Benignity, he got together a Party, whereby he ſubdued his
+Oppoſites, and ſettled his Government.</p>
+            <p>But ſince it hath been the ge<g ref="char:EOLhyphen"/>neral Policy of ſucceeding Ages,
+by Marriage and Affinity to perpe<g ref="char:EOLhyphen"/>tuate that in their Families, which he only
+obtained by Craft and Sub<g ref="char:EOLhyphen"/>tilty; witneſs the Royal Families of the World ever
+ſince, a So<g ref="char:EOLhyphen"/>veraignty and Superiority having been generally
+ſucceſſive;<note place="margin">Moſes, Joſhua, Samuel,
+<hi>&amp;c.</hi>
+               </note> (except only when it pleaſed God to in<g ref="char:EOLhyphen"/>ſpire and
+adapt ſome particular men for the Government of his People in the Primitive
+times.) And thus Marriage hath not only Intailed Soveraignty on their
+Po<g ref="char:EOLhyphen"/>ſterity, but alſo ſettled the com<g ref="char:EOLhyphen"/>mon Peace, Trade and Commerce of one
+Nation and State with a<g ref="char:EOLhyphen"/>nother; hath promoted Alliances <pb n="63" facs="tcp:98231:39"/> of
+common preſervations, againſt the Enemies of Gods Church; and whereby
+ſeveral Countreys have enjoyed the Commodities and Ma<g ref="char:EOLhyphen"/>nufactures of each
+other, for a mu<g ref="char:EOLhyphen"/>tual good and advantage. <hi>Solomon</hi> Married
+<hi>Pharaoh</hi>'s Daughter, and ſettled a Trade and Commerce with the
+<hi>Aegyptians.</hi> What recon<g ref="char:EOLhyphen"/>ciled the <hi>Chaldeans</hi> to <hi>Cyrus</hi>
+but Marriage? what reconciled the <hi>Sa<g ref="char:EOLhyphen"/>bines</hi> to the <hi>Romans?</hi>
+Marriage; they were Enemies and Friends both in one days time,<note place="margin">Salubrem providenti<g ref="char:EOLhyphen"/>am. <hi>Se<g ref="char:EOLhyphen"/>neca.</hi>
+               </note> which
+<hi>Seneca</hi> ſtyles an healing Providence. What reconciled <hi>Pompey</hi>
+and <hi>Caeſar</hi> after ſo much Fighting and Blood-ſhed, but Marriage?
+Which way did <hi>Alexander</hi> reconcile and allye <hi>Aſia</hi> to
+<hi>Europe,</hi> but by Marriage? And our Politick <hi>Henry</hi> the Seventh
+Marrying the Lady <hi>Elizabeth,</hi> Heir of the Houſe of <hi>York,</hi>
+ingrafted the white Roſe on the Red, and ſo put a Period to thoſe Civil
+Diſſentions which had cauſed ſo much Blood-ſhed; and by Marry<g ref="char:EOLhyphen"/>ing of
+his two Daughters, entitu<g ref="char:EOLhyphen"/>led his Heirs to the <hi>French</hi> Inte<g ref="char:EOLhyphen"/>reſt 
+<pb n="64" facs="tcp:98231:40"/> and Crown of <hi>Scotland:</hi> And in ſhort, the
+Soveraign Houſes of <hi>Chriſtendome</hi> being a Kin to each other by
+Marriage, the Peace of <hi>Chriſtendome</hi> and other parts have been
+preſerved thereby;<note place="margin">Firmiſſi<g ref="char:EOLhyphen"/>mum Imperii munimen<g ref="char:EOLhyphen"/>tum,
+<hi>Taci<g ref="char:EOLhyphen"/>tus an.</hi>
+               </note> and <hi>Ta<g ref="char:EOLhyphen"/>citus</hi> calls it the moſt ſtrong
+Pre<g ref="char:EOLhyphen"/>ſervative of Empire.</p>
+            <p>And if theſe Obligations were but duly obſerved by Nations and
+Families, what Halcion dayes would be found on Earth! this Contract of Mankind
+ſhould be like that Gol<g ref="char:EOLhyphen"/>den Chain which reaches from Earth to Heaven,
+preſerving the mutual coherence of the Elements, where<g ref="char:EOLhyphen"/>by all things are
+reciprocally ty<g ref="char:EOLhyphen"/>ed together, and make this lower World like the Imperial
+Heavens; where all the motions of the com<g ref="char:EOLhyphen"/>prehending Orbs, the ſeveral
+Con<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tions, the various
+poſition of the Stars and Planets produce a raviſhing Chorus, and an
+Harmo<g ref="char:EOLhyphen"/>ny truly beautiful: And what peace and quiet too, as the Emanations of
+this ſacred Friendſhip, would be eſtabliſhed! and what a ſeries of
+<hi>Hacentia's,</hi> and pleaſing Conten<g ref="char:EOLhyphen"/>tations <pb n="65" facs="tcp:98231:40"/> ſlow
+from it! 'twould lead us up to the <hi>via Lactea,</hi> and uſh<g ref="char:EOLhyphen"/>er us with
+Muſick to the preſence of Divinity.</p>
+            <p>Having ſpoken ſomething of the Illuſtrious Effects of
+Marriage, we proceed to inquire what method we are to take to render it
+bleſſed, propitious and ſatisfactory, which brings us to peruſe the
+Prayer of <hi>Eliezer,</hi> for conſtituting a Family; in which Government
+was firſt e<g ref="char:EOLhyphen"/>rected, and if ſtill preſerved, is the beſt means to
+preſerve Nati<g ref="char:EOLhyphen"/>onal Diſcipline, which was deri<g ref="char:EOLhyphen"/>ved from it.</p>
+            <div type="part">
+               <q>
+                  <bibl>
+                     <hi>GEN. 24.</hi> v. <hi>12.</hi>
+                  </bibl> 
+                  <p>And he ſaid, O Lord God of my Maſter Abraham, I pray thee
+ſend me good ſpeed this day, and ſhew kindneſs unto my Ma<g ref="char:EOLhyphen"/>ſter
+Abraham.</p>
+               </q>
+               <p>THe words contain a pathetical Prayer of <hi>Eliezer,
+Abraham</hi>'s Servant, for a good Wife for his <pb n="66" facs="tcp:98231:41"/> Maſters
+Son, <hi>I pray thee,</hi> &amp;c. The Context and preceding Verſes give us
+an account of <hi>Abrahams</hi> directi<g ref="char:EOLhyphen"/>on, and <hi>Eliezer</hi>'s entrance on
+this deſign; here we find <hi>Abraham</hi>'s Ser<g ref="char:EOLhyphen"/>vant begining with his
+Supplication to the Lord God of his Maſter <hi>Abraham,</hi> for ſucceſs
+in this under<g ref="char:EOLhyphen"/>taking. The Explication being ſo obvious, we only take notice
+of four particulars.</p>
+               <p n="1">1. His Solemn Addreſs to God for ſucceſs.</p>
+               <p n="2">2. His Prayer is ſtrengthened by this Expreſſion,
+<hi>O Lord God of my Maſter Abraham.</hi>
+               </p>
+               <p n="3">3. The Object and Deſign of his Prayer, to have <hi>good
+ſucceſs this Day.</hi>
+               </p>
+               <p n="4">4. That particular kindneſs God would vouchſafe unto
+<hi>Abraham,</hi> in the conceſſion and gratification of his requeſt,
+<hi>And ſhew kindneſs unto my Maſter Abraham.</hi>
+               </p>
+               <p>And <hi>Firſt</hi> of the Firſt of theſe,
+<hi>viz.</hi>
+               </p>
+               <p n="1">1. His Solemn Addreſs to God for Succeſs; this is
+<hi>Eliezer</hi>'s me<g ref="char:EOLhyphen"/>thod, and as the beſt way and <pb n="67" facs="tcp:98231:41"/>
+means to accompliſh his deſires, is to addreſs himſelf to God, who is
+the Author and giver of every good thing: He, and He only can give ſucceſs
+to our Undertakings, or blaſt and diſappoint our moſt re<g ref="char:EOLhyphen"/>ſolved
+Deſigns and Intentions: Prayer is a Duty which keeps the trade of Religion a
+going, and 'tis our happineſs that God puts it into our hearts to Pray; which
+is no other than a religious Speech, directed to God after a due ſort,
+concerning things appertaining to his glory and our good; and it is the Key of
+Heaven, and Conduit of Mercy, a Perfume and ſweet Sa<g ref="char:EOLhyphen"/>vour in Gods Noſtrils,
+and the Meſ<g ref="char:EOLhyphen"/>ſenger of the Soul to the Throne of Grace.</p>
+               <p>
+                  <hi>Damaſcen</hi> tells,<note place="margin">De Orth. Fid.
+lib.</note> that in Prayer the Will is filled with deſire, and the deſires
+flame and blaze upwards to God; and though Prayer is an act of the Will, yet it
+hath its con<g ref="char:EOLhyphen"/>ception in the Heart, and is ſer<g ref="char:EOLhyphen"/>viceable to the Soul, like the
+ani<g ref="char:EOLhyphen"/>mal Spirits to the Body.</p>
+               <p>It is, and hath been the Method <pb n="68" facs="tcp:98231:42"/> and Uſage
+of Gods Servants in all Ages, to Pray to God on all occa<g ref="char:EOLhyphen"/>ſions.<note place="margin">Gen. 13.4.</note> Thus <hi>Abraham</hi> for <hi>Iſhmael,</hi>
+and when he removed his Family to <hi>Bethel</hi> and <hi>Beerſheba,</hi> he
+built an Altar, and <hi>Called on the Name of the Lord:</hi> And <hi>David</hi>
+after he had ſettled the Ark, returned to bleſs his Houſe, that is, to
+Pray for his People: ſo good <hi>Nehemiah, Firſt I Prayed unto the Lord,
+and then I ſpake unto the King:</hi> And 'tis the Apoſtles Exhortation,
+<hi>In all things, by Prayer and Supplication, let your requeſts be made
+known unto God.</hi>
+               </p>
+               <p n="2">2. His Prayer is ſtrengthened by this Expreſſion,
+<hi>O Lord God of my Maſter Abraham:</hi> 'Tis very Empha<g ref="char:EOLhyphen"/>tical, and gives us
+to underſtand Gods great affections to his emi<g ref="char:EOLhyphen"/>nent Servants, and the ſeed
+of the Faithful: And this place more par<g ref="char:EOLhyphen"/>ticularly refers to Gods promiſe to
+<hi>Abraham</hi> concerning <hi>Iſaac,</hi>
+                  <note place="margin">Gen.
+19.17.</note> and 'tis very probable this was a great Topick with <hi>Eliezer,
+Iſaac</hi> being the Son of the Promiſe; and ſuch forms of Invocation
+were very com<g ref="char:EOLhyphen"/>mon in thoſe times: in <hi>Abraham</hi>'s <pb n="69" facs="tcp:98231:42"/>
+charge to his Servant,<note place="margin">
+                     <hi>Verſe</hi> 7.</note> he
+encoura<g ref="char:EOLhyphen"/>ges him in his undertaking, by re<g ref="char:EOLhyphen"/>counting Gods Promiſes to his
+Seed.</p>
+               <p>And we find often times in Gods appearance to his Servants, he
+is pleaſed to expreſs himſelf as re<g ref="char:EOLhyphen"/>membring his Promiſes: when he
+appeared to <hi>Iſaac,</hi>
+                  <note place="margin">Gen. 26.24</note> 
+                  <hi>I am the
+God of thy Father, fear not;</hi> and <hi>Jacob</hi> when afraid of
+<hi>Eſau,</hi> ſtrengthened himſelf by this Invocation,<note place="margin">Gen. 32.9.</note> 
+                  <hi>O Lord God of my father Abraham, and God of
+my fa<g ref="char:EOLhyphen"/>ther Iſaac, the Lord which ſaid unto me, I will deal well with
+thee.</hi> So <hi>Moſes</hi> fear<g ref="char:EOLhyphen"/>ing the <hi>Aegyptians</hi> would not
+believe him,<note place="margin">Exo. 4.5.</note> but God to confirm his Faith
+and the <hi>Iſraelites,</hi> was pleaſed to work Miracles; <hi>That they
+may believe</hi> (ſays God) <hi>that the God of their Fa<g ref="char:EOLhyphen"/>thers, the God of
+Abraham, Iſaac and Jacob, hath appeared unto thee.</hi>
+               </p>
+               <p n="3">3. The Object and Deſign of his Prayer, To have <hi>Good
+ſpeed this day:</hi>
+                  <note place="margin">Fac ut ſe mihi oſſert quod peto.
+<hi>Zenochius in Locum.</hi>
+                  </note> Good ſpeed is an indefinite wiſh, and
+refers to ſeveral Objects; but here particularly ſignifies, ſuc<g ref="char:EOLhyphen"/>ceſs in
+chooſing a good Wife for his Maſters Son; and ſome render 
+<pb n="70" facs="tcp:98231:43"/> it, That <hi>he might obtain what he asked;</hi> others,
+<hi>That what he deſired might be proſperous and
+ſucceſſeful.</hi>
+                  <note place="margin">Proſperum fac mihi occurſum.
+<hi>Vatablus in Locum.</hi>
+                  </note> Both which are Synominous; and 'tis very
+aptly and ſignificantly rendred, <hi>Good ſpeed;</hi> becauſe the
+chooſing and enjoying a good Wife is ſo eſſential a part of a mans
+happineſs: this prompted <hi>Abraham</hi> to that wonderful care in ſeeking
+out a good Wife for his Son;<note place="margin">
+                     <hi>Verſe</hi> 3.</note> and
+nothing could be more ſatisfactory to <hi>Iſaac,</hi> than the enjoyment of
+this bleſſing: <hi>Jacobs</hi> ſeven years ſeemed but a few dayes, for
+the Love he bare unto <hi>Rachel.</hi> And all Ages of the World have
+ſubſcribed to this Doctrine.</p>
+               <p n="4">4. That particular Kindneſs God would vouchſafe unto
+<hi>Abraham;</hi>
+                  <note place="margin">Fac miſeri<g ref="char:EOLhyphen"/>cordiam ſig<g ref="char:EOLhyphen"/>nificat non alio
+jure fre<g ref="char:EOLhyphen"/>tum hoc au<g ref="char:EOLhyphen"/>dire, niſi qua Deus gratiam ſu<g ref="char:EOLhyphen"/>am Abramae pollitius
+fue<g ref="char:EOLhyphen"/>rat.</note> 
+                  <hi>and ſhew Kindneſs unto my Maſter Abraham.</hi> We are
+here to enquire what kindneſs the accompliſhment hereof would be unto
+<hi>Abraham.</hi> And nothing can pleaſe better, and be more acceptable to a
+Father, than to ſee his Son happy in a good Wife: A noter on the place well
+expreſſeth himſelf.</p>
+               <p>
+                  <pb n="71" facs="tcp:98231:43"/>And a Father that hath taken ſo much care
+and pains in the edu<g ref="char:EOLhyphen"/>cation and bringing up of his Son, who is ſo dear to
+him; and to whom he hath given ſo good an Example, when his Son is well
+married, and his Father ſees him proſecuting thoſe admirable
+Inſtru<g ref="char:EOLhyphen"/>ctions he received from him; and with the help of a good Wife, how
+does he eſteem himſelf hap<g ref="char:EOLhyphen"/>py in his Sons happineſs; whoſe Wiſdom and
+conduct may render even his Poſterity happy! To which the Wiſe man
+alludes,<note place="margin">Pro. 24.23.</note> 
+                  <hi>The Father of the Righteous
+ſhall greatly rejoice, and he that begetteth a wiſe Child, ſhall have joy
+of him.</hi>
+               </p>
+               <p>Having ſpoken ſomething by way of Explication, we paſs on
+to the Obſervations, and each con<g ref="char:EOLhyphen"/>cluded with a ſhort Inference.</p>
+               <p>
+                  <hi>Prayer is a great and Indiſpenſa<g ref="char:EOLhyphen"/>ble Duty.</hi>
+                  <note place="margin">Obſerv. 1.</note>
+               </p>
+               <p>A Tribute we owe in recogniti<g ref="char:EOLhyphen"/>on of the Divine Soveraignty; 'tis
+the Juſt Prerogative God may ex<g ref="char:EOLhyphen"/>pect <pb n="72" facs="tcp:98231:44"/> from his Creatures:
+The other parts and pieces of the Creation purſue the deſign of their
+beings; the Sacred Poet tells us,<note place="margin">Pſal. 19.1.</note>
+                  <hi>The Heavens declare Gods Glory,</hi> the Sun rules the Day, and the Moon
+the Night; the Elements obſerve their appointed Stations, the Earth is
+Lowermoſt, the Sea keeps his bounds, the Air, <hi>Aethur,</hi> and
+<hi>Su<g ref="char:EOLhyphen"/>peraethur</hi> obſerve their Sphaerical apartments; the Earth is our
+Ha<g ref="char:EOLhyphen"/>bitation, the Beaſt of the Field our Food, Vegetables afford both Medicine
+and Nouriſhment, and all things admirably uſeful, and adap<g ref="char:EOLhyphen"/>ted for the
+ſervice of man.<note place="margin">Pſal. 19.3, 4.</note> 
+                  <hi>There is no
+ſpeech nor language, where their Voice is not heard: Their line is gone
+throughout all the Earth, and their words to the end of the World.</hi> And are
+wonderful <hi>Indiciums</hi> of Gods Glory and goodneſs in their ſerv<g ref="char:EOLhyphen"/>ing
+man; and ſhall he only dege<g ref="char:EOLhyphen"/>nerate and prove Anomalous and Sceptical? ſhall
+the beſt piece of the Creation prove the worſt, and unſerviceable? The
+nobleſt beings ſhew moſt Beauty in their opera<g ref="char:EOLhyphen"/>tions, <pb n="73" facs="tcp:98231:44"/> and ſhall man that was crea<g ref="char:EOLhyphen"/>ted to admire the Wiſdom and
+goodneſs of his Maker, be ſilent, and do leſs than the dumb pieces of the
+Creation? God forbid.</p>
+               <p>The all-wiſe God hath commu<g ref="char:EOLhyphen"/>nicated the ſenſible and
+eminent influences of his mercy, goodneſs, and bounty, to the rational
+Na<g ref="char:EOLhyphen"/>ture of man; that ſo Body and Soul jointly engaged, might pro<g ref="char:EOLhyphen"/>duce an
+harmony of Praiſe and Thankſgiving to the great Creator of the World:
+wherefore did God give him his Tongue, the Organ of Speech, but to pray unto
+his Maker; and with <hi>David, O Lord open thou my Lips, and my Mouth ſhall
+ſhew forth thy Praiſe?</hi> God gave him his hands to lift them up in
+prayer to him,<note place="margin">Tendens ad ſydera pal<g ref="char:EOLhyphen"/>mas.</note> and with
+<hi>Da<g ref="char:EOLhyphen"/>vid,</hi> that his Prayer might <hi>come before him as Incenſe, and
+the lift<g ref="char:EOLhyphen"/>ing up his hands as the Evening Sa<g ref="char:EOLhyphen"/>crifice.</hi>
+               </p>
+               <p>So alſo the Inorganical parts are <pb n="74" facs="tcp:98231:45"/> to be
+chiefly imployed in our prayers to God,<note place="margin">Elevatio mentis ad
+Deum.</note> the Underſtand<g ref="char:EOLhyphen"/>ing, Will and Affections, without which prayer is
+inſignificant; 'tis only the ſpiritual and fervent pray<g ref="char:EOLhyphen"/>er that availeth,
+which is called <hi>wraſtling,</hi>
+                  <note place="margin">Gen. 32.24. <hi>Oratio
+eſſi<g ref="char:EOLhyphen"/>cax.</hi> Beza.</note> and <hi>pouring</hi> out of the <hi>Soul</hi>
+to <hi>God;</hi> and 'tis that which is our indiſpenſible Duty; all the
+faculties of the Soul muſt be en<g ref="char:EOLhyphen"/>gaged herein, to ſupplicate and adore the
+great God, and intenti<g ref="char:EOLhyphen"/>onally with <hi>David;</hi> exciting all within us to
+pray unto that God who gave us our Being, and to Praiſe him for all our
+Mercies and Benefits:<note place="margin">Affectus operi nomen impoſuit.
+<hi>St. Ambroſ.</hi>
+                  </note> for 'tis the lively affecti<g ref="char:EOLhyphen"/>ons of the Soul in a
+Duty that gives it a Name, and makes it ſuc<g ref="char:EOLhyphen"/>ceſsful: ſo <hi>Eliezer</hi>
+here pray'd un<g ref="char:EOLhyphen"/>to God for his Maſters Son. And prayer is our Duty, to ſhew
+our dependance on God; <hi>In him we live, move, and have our Being;</hi> our
+daily exigencies invite us to it.</p>
+               <p>
+                  <note place="margin">Inf.</note>Let us therefore pray daily, for 
+<pb n="75" facs="tcp:98231:45"/> prayer is as uſeful to us, as our daily bread; and we
+are encoura<g ref="char:EOLhyphen"/>ged hereto, for he filleth the hun<g ref="char:EOLhyphen"/>gry with good things; and
+ex<g ref="char:EOLhyphen"/>horted to pray without ceaſing: In all things let your Requeſts and
+Supplications be made known to God.</p>
+               <p>
+                  <hi>That ſome forms of Invocation and phraſeologies, are
+very prevalent.</hi>
+                  <note place="margin">Obſerv. 2.</note>
+               </p>
+               <p>So <hi>Eliezer</hi> here, <hi>O Lord God of my Maſter
+Abraham;</hi> and this expreſſion is uſed to ſtrengthen
+<hi>Eliezers</hi> Faith. And we may learn from hence; That upon particular
+wants and oc<g ref="char:EOLhyphen"/>caſions, we ought to uſe ſuch Phraſe<g ref="char:EOLhyphen"/>ologies, which are
+<hi>analogous</hi> to Gods Promiſes, or referr to our wants: Thus
+<hi>Joſhua,</hi> after <hi>Iſrael</hi> had ſinn'd:<note place="margin">Joſh. 7.8, 9</note> 
+                  <hi>O Lord, what ſhall I ſay, when
+Iſrael turneth their backs before their Enemies?</hi> That was when they were
+purſued by the men of <hi>Ai;</hi> which implies his earneſt
+Expoſtulation with God to preſerve his own People, and concludes with this
+prevailing <pb n="76" facs="tcp:98231:46"/> argument; <hi>And what wilt thou do unto thy
+great Name?</hi> The Prophet <hi>Hoſea</hi> exhorts the <hi>Iſraelites</hi>
+to re<g ref="char:EOLhyphen"/>nounce in theſe Expreſſions their former Sins.<note place="margin">Hoſ. 14.2, 3.</note> 
+                  <hi>Take with you words, and turn to the
+Lord, and ſay unto him, Take away all Iniquity, and re<g ref="char:EOLhyphen"/>ceive us graciouſly;
+ſo will we render the calves of our Lips. Aſhur ſhall not ſave us, we
+will not ride upon Horſes, neither will we ſay any more to the work of our
+hands, ye are our Gods, for with thee the Fatherleſs find<g ref="char:EOLhyphen"/>eth Mercy.</hi> So
+<hi>Elijah</hi> prayed unto God,<note place="margin">1 Kings 17.20.</note>
+                  <hi>Haſt thou alſo brought evil up<g ref="char:EOLhyphen"/>on the Widdow with whom I ſojourn, by
+ſlaying her Son?</hi> Which is as if he remembred God, who commanded him to
+go to that Widdow for ſuccour, as we find in the beginning of that Chapter:
+And we read of <hi>Aſa,</hi>
+                  <note place="margin">2 Chron. 14.14.</note> when he
+went to Battle, he uſed this pathetical way of expreſ<g ref="char:EOLhyphen"/>ſing himſelf to
+God: <hi>Help us, O Lord our God, for we reſt in thee, and in thy Name we go
+againſt this Multitude: O Lord, thou art our God, let not man prevail
+againſt thee:</hi> and <pb n="77" facs="tcp:98231:46"/> ſo <hi>Jehoſhaphat,</hi> when
+the Army of the <hi>Heathens</hi> were coming againſt him, he prayed unto
+God.<note place="margin">2 Chron. 20.6, 7.</note> 
+                  <hi>O Lord God of our Fathers,
+art thou not God in Heaven? and ruleſt not thou over all the Kingdoms of the
+Heathen? and in thine hand is there not power and might, ſo that none is able
+to withſtand thee? Art thou not our God, who didſt drive out the
+in<g ref="char:EOLhyphen"/>habitants of this Land before thy Peo<g ref="char:EOLhyphen"/>ple Iſrael, and gaveſt it to the
+ſeed of Abraham thy Friend for ever?</hi>
+               </p>
+               <p>Secondly, In our Thanskgiving and Exultation, we ſhould admire
+and paraphraſe on Gods power, ſuitable to the Nature of our de<g ref="char:EOLhyphen"/>liverance:
+ſuch was the Song of <hi>Moſes,</hi> after the Children of
+<hi>Iſraels</hi> deliverance at the <hi>Red Sea,</hi> a para<g ref="char:EOLhyphen"/>phraſtical
+Triumph repeating the manner of their deliverance and <hi>Pharaohs</hi>
+overthrow; what pious Airs and Encomiums was chanted out by the thankful
+<hi>Iſraelites!</hi> And what was <hi>Deborahs</hi> Song, but the ſlaming
+Raptures of a rejoicing <pb n="78" facs="tcp:98231:47"/> Heart? And the twenty ſecond of
+<hi>Samuel,</hi> is a continued thankſgiving of <hi>David</hi> to God for his
+mercies; and the 105, and 106. <hi>Pſalms,</hi> are a Hiſtory of the
+deliverance of Gods People, and <hi>Davids</hi> thankful<g ref="char:EOLhyphen"/>neſs for Gods
+Mercies.</p>
+               <p>
+                  <note place="margin">Inf.</note>Let us therefore remember the
+advice of the Apoſtle,<note place="margin">1 Theſſ. 5.18.</note> 
+                  <hi>In
+every thing give thanks, for this is the Will of God in Jeſus Christ
+concerning you:</hi> And as we expect any bleſ<g ref="char:EOLhyphen"/>ſings, we muſt pray for
+them; ſo alſo to improve what we have with thankfulneſs is the only way
+to have more.</p>
+               <p>
+                  <note place="margin">Obſerv. 3.</note>
+                  <hi>That we ought to pray
+for each other.</hi>
+               </p>
+               <p n="1">1. Here was good <hi>Eliezer</hi> praying for his
+Maſters Son; and 'tis the Duty of Chriſtians to aſſiſt each other
+with their Prayers. The Apo<g ref="char:EOLhyphen"/>ſtle bids us make Supplication for all Saints,
+and the Apoſtle pray<g ref="char:EOLhyphen"/>ed for thoſe that had not ſeen his 
+<pb n="79" facs="tcp:98231:47"/> Face in the Fleſh; and how paſſi<g ref="char:EOLhyphen"/>onate was he for
+the prayers of of the People! and conjures them, <hi>For Chriſts
+ſake,</hi>
+                  <note place="margin">Coloſſ. 2.1.</note> 
+                  <hi>and the love of the
+Spirit, that they ſhould ſtrive with him in their Prayers to God for him.
+Tertullian</hi> calls it,<note place="margin">Rom. 15.30.</note> An holy
+conſpi<g ref="char:EOLhyphen"/>racy to beſiege Heaven: this Con<g ref="char:EOLhyphen"/>junction in Prayer edifies the
+whole Church, the Communion of Saints, and is of advantage to every mem<g ref="char:EOLhyphen"/>ber;
+nay, even the wicked have a ſenſe, and need of the Prayers of good men:
+ſo <hi>Pharaoh</hi> told <hi>Moſes, Intreat the Lord your God to turn away
+this death only:</hi> That is, pray unto God for me; and the pray<g ref="char:EOLhyphen"/>ers of Saints
+are very acceptable: God would not hear <hi>Job's</hi> Friends,<note place="margin">Job 42.8.</note> but ſays God, <hi>My ſervant Job ſhall pray
+for you.</hi>
+               </p>
+               <p n="2">2. This praying for one another does not terminate in
+perſonal Ob<g ref="char:EOLhyphen"/>ligations, but comprehends pray<g ref="char:EOLhyphen"/>ing for Chriſts Church and
+Peo<g ref="char:EOLhyphen"/>ple; for the Propagation of his Goſpel, that God would <hi>give him 
+<pb n="80" facs="tcp:98231:48"/> the Heathen for his Inheritance, and the utmoſt part of
+the World for his Poſſeſſion:</hi> and how pathetically did the
+<hi>Jews</hi> in Captivity expreſs their zeal for the welfare of
+<hi>Jeruſalem! By the Rivers of Babilon,</hi>
+                  <note place="margin">Pſal.
+137.</note> 
+                  <hi>there we ſat down, yea we wept when we remem<g ref="char:EOLhyphen"/>bred Zion;</hi>
+and ſo to the end! and for Nations, it is St. <hi>Pauls</hi>
+exhorta<g ref="char:EOLhyphen"/>tion,<note place="margin">1 Tim. 2.1.</note> 
+                  <hi>That firſt of all,
+Supplications, Prayers, Interceſſions and giving of thanks be made for all
+men: For Kings and all that are in Authority, that we may lead quiet and
+peaceable lives, in all godlineſs and honeſty.</hi> Nay further, we are
+commanded to pray for our Enemies,<note place="margin">Mat. 5 44.</note> and
+Chriſt prayed for them that crucified him,<note place="margin">Luk. 23.34 Acts
+7.60.</note> 
+                  <hi>Father forgive them;</hi> and that <hi>Protomartyr</hi> St.
+<hi>Step<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi> prayed for them that
+ſtoned him. And 'tis the noble and heroick deſign of a graci<g ref="char:EOLhyphen"/>ous Heart, to
+be ſerviceable to Church and State, by prayer, either to depre<g ref="char:EOLhyphen"/>cate
+Judgments, or obtain Mercies.</p>
+               <p n="1">1. To deprecate Judgements. How did <hi>Abraham</hi>
+intercede with <pb n="81" facs="tcp:98231:48"/> God for <hi>Sodom!</hi> and God was
+pleaſed to anſwer him,<note place="margin">Gen. 9.32.</note> 
+                  <hi>That if ten
+righteous were in it, he would not de<g ref="char:EOLhyphen"/>ſtroy it for tens ſake!</hi> And how
+Gracious was God to <hi>Jeruſalem! And I ſought for a man among
+them,</hi>
+                  <note place="margin">Ezek 22.30.</note> 
+                  <hi>that ſhould make up the
+Hedge, and ſtand in the gap before me, for the Land, that I ſhould not
+deſtroy it, but I found none:</hi> It implies Gods great reſpect for the
+righteous; which <hi>Solomon</hi> ſtyles <hi>fundamentum ſeculi,</hi> an
+everlaſting Foundation: publick Spirited Perſons are like Pillars, to bear
+up Gods Wrath from the place they live in.</p>
+               <p n="2">2. To obtain Mercies; ſo <hi>Elijah</hi> prayed for Rain
+in the days of <hi>Ahab,</hi> and obtained it, after three years
+Intermiſſion; and ſo <hi>Moſes</hi> that great Maſter in
+<hi>Iſrael,</hi> after God had reveal'd his will to him, he cryed unto God
+for the Chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael,</hi> and could bid them <hi>Stand ſtill
+and ſee the Salvation of God;</hi> and we all know what a glorious Victory
+followed.</p>
+               <p>
+                  <pb n="82" facs="tcp:98231:49"/>
+                  <note place="margin">Inf.</note>Let us
+therefore upon the whole, Pray for each other, Gods Church and People, that by
+the fervency and continuance of our Prayers, we may either ſtand in the gap
+with <hi>Abraham,</hi> or prevail with <hi>Jacob;</hi> at leaſt be found
+among the righteous, that when Gods Judg<g ref="char:EOLhyphen"/>ments are in the earth, God may ſay
+unto us as he did to <hi>Noah, Come thou and all thine houſe into the
+Ark,</hi>
+                  <note place="margin">Gen. 7.1.</note> 
+                  <hi>for thee have I ſeen
+righte<g ref="char:EOLhyphen"/>ous before me in this generation.</hi>
+               </p>
+               <p>
+                  <note place="margin">Obſerv. 4.</note>
+                  <hi>Prayer is the only way
+to obtain Mercies, or divert Judgments.</hi>
+               </p>
+               <p>How great Priviledge is it to be admitted into the Preſence of
+ſome great Monarch! but how much greater Prerogative hath the de<g ref="char:EOLhyphen"/>vout
+Chriſtian, that by fervent Prayers, and ardent effuſion of his Tears and
+Wiſhes, may freely con<g ref="char:EOLhyphen"/>ferr with the King of Kings! this penetrates the
+Clouds and Sphears, and mounts us to the boſome of <pb n="83" facs="tcp:98231:49"/> the
+great Benefactor; and a Charm that if rightly performed, pre<g ref="char:EOLhyphen"/>vails on
+Omnipotency;<note place="margin">Oratio pura coelos pene<g ref="char:EOLhyphen"/>trans va<g ref="char:EOLhyphen"/>cua non
+re<g ref="char:EOLhyphen"/>dibit. <hi>St. Auſtin.</hi>
+                  </note> this Dove ſent to Heaven, often
+brings an Olive-leaf in his Mouth: This fer<g ref="char:EOLhyphen"/>vent Prayer (ſayes St.
+<hi>Auſtin</hi>) as it pierceth Heaven, ſo it will not return without
+effect. And not on<g ref="char:EOLhyphen"/>ly our Duty, but our daily wants put us upon this
+undertaking; we are helpleſs Creatures of our ſelves, and Prayer is our
+only refuge; there is an admirable Oeconomy in the Divine Wiſdome, to bring
+man to his Duty and Happineſs; God tells us,<note place="margin">Ezek.
+36.37.</note> That <hi>for this he will be enquired of by the Houſe of
+Iſrael, to do this for them:</hi> And 'tis but highly rational to confeſs
+our de<g ref="char:EOLhyphen"/>pendance upon him that gave us being. The Kingly Prophet ele<g ref="char:EOLhyphen"/>gantly
+deſcribes Gods goodneſs to thoſe that call upon him in 145<hi rend="sup">th</hi>
+                  <hi>Pſalm,</hi> from the begining to the the end: And certainly 'tis no
+Mer<g ref="char:EOLhyphen"/>cy that is not worth ſeeking to God for; but when ſought and ob<g ref="char:EOLhyphen"/>tained,
+it makes the bleſſing the <pb n="84" facs="tcp:98231:50"/> more acceptable, and obliges
+us to improve it, with the greater thankfulneſs and ſobriety: we can never
+loſe any thing by prayer, for we are never out of Gods reach to relieve us;
+if God pleaſe to anſwer us, the Bleſſing is the more ſafe and
+ſweet, and if deny<g ref="char:EOLhyphen"/>ed we are the more humble, and patient, and content that
+God ſhould be Maſter of his own boun<g ref="char:EOLhyphen"/>ty.</p>
+               <p>We have the Practice of Gods People recommended to our
+Imi<g ref="char:EOLhyphen"/>tation, and the admirable effects of their Prayers recorded for our
+encouragement: here good <hi>Eliezer</hi> prayes unto God for <hi>good
+ſpeed;</hi> he would not venture on it with<g ref="char:EOLhyphen"/>out Petitioning the Lord God of
+his Maſter <hi>Abraham,</hi> and the good ſucceſs he met with, was the
+ef<g ref="char:EOLhyphen"/>fect of Prayers. <hi>Abraham</hi> tells him God would ſend his Angel
+before him, and proſper his way; which implies the ſtrength of
+<hi>Abraham's</hi> Faith; and his Servant, after he <pb n="85" facs="tcp:98231:50"/> had
+prayed,<note place="margin">
+                     <hi>V.</hi> 13, 14.</note> in the very next
+<hi>verſes</hi> gives us a kind of Prophetick hint of what would come to
+paſs, and reſigns himſelf up to the conduct of Providence; <hi>Behold I
+ſtand here by the Well of Water;</hi> and ſo on:<note place="margin">Non
+tentat Deum cujus inſtinctu ad hoc motus fuerat. <hi>Ju<g ref="char:EOLhyphen"/>nius in
+loc.</hi>
+                  </note> 
+                  <hi>Junius</hi> obſerveth, he did not tempt God, becauſe
+God prompted him hereto; for ſuch manuductory paſ<g ref="char:EOLhyphen"/>ſages of Providence are
+but Preli<g ref="char:EOLhyphen"/>minary to ſucceſs, and antecede the effects of our Prayers:<note place="margin">Signum quod ſtatuit congruum fuiſſe, erat, enim ſigna
+bonae uxoris &amp; indolis affabilis, hoſpitalis &amp; ſtrenuae qualem
+no<g ref="char:EOLhyphen"/>verat pla<g ref="char:EOLhyphen"/>citurum &amp; Iſaaco &amp; Abrahamo. <hi>St. Chryſ. in
+loc.</hi>
+                  </note> And St. <hi>Chryſoſtome</hi> well obſerves, The ſign,
+ſayes he, which <hi>Eliezer</hi> pitcht up<g ref="char:EOLhyphen"/>on was very agreeable; for thoſe
+things, as affability and courteſie, are the indications of a good Wife, and
+ſuch as would pleaſe <hi>Iſaac</hi> and <hi>Abraham</hi> alſo.</p>
+               <p>
+                  <hi>David</hi> alludes to ſuch antecedent Providences: ſayes
+God, <hi>I will in<g ref="char:EOLhyphen"/>ſtruct thee, and teach thee in the way which thou ſhalt
+go, and I will guide thee with mine Eye;</hi> and ſuch gra<g ref="char:EOLhyphen"/>cious dealings of
+God with his People are our great encourage<g ref="char:EOLhyphen"/>ment, and the effects of Prayer's 
+<pb n="86" facs="tcp:98231:51"/> miraculous;<note place="margin">James 5.17.</note> as if
+<hi>Elijah</hi> could ſhut and open Heaven at his pleaſure. <hi>Jacobs</hi>
+Prayer turned away the In<g ref="char:EOLhyphen"/>dignation and Wrath of <hi>Eſau,</hi> and his four
+hundred men: after <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> had cried to the Lord for the Children of
+<hi>Iſrael,</hi> the <hi>Egyptians</hi> were drowned in the
+<hi>Red-Sea.</hi>
+               </p>
+               <p>And after <hi>David</hi> had prayed unto his God,<note place="margin">1 Sam. 17.37.</note> 
+                  <hi>That delivered him out of the paw of the
+Lyon and the bear, he alſo delivered him out of the hands of the
+Philiſtine:</hi> And when <hi>Elijah</hi> prayes unto God, <hi>That the meal
+ſhall not waſte, nor the cruiſe of Oyl fail, till the day that God ſend
+Rain on Earth:</hi> And when <hi>Hezekiah</hi> prayed againſt
+<hi>Sen<g ref="char:EOLhyphen"/>nacherib</hi> for reproaching the living God, the Lord was pleaſed to
+anſwer him,<note place="margin">2 King 19.</note> that he ſhould not ſhoot
+one Arrow, nor come before the City with Shields or Bucklers, but re<g ref="char:EOLhyphen"/>turn as he
+came; and God ſmote a hundred fourſcore and five thou<g ref="char:EOLhyphen"/>ſand
+<hi>Aſſyrians,</hi> and even <hi>Sennacherib</hi> himſelf ſlain by his
+two Sons: And let but thoſe three Servants of <pb n="87" facs="tcp:98231:51"/> that God
+whom they truſted would deliver them, but pray to him in the fiery Furnace;
+though the ve<g ref="char:EOLhyphen"/>ry heat ſlay even thoſe that put them in, yet a hair of their
+heads ſhall not be ſinged, nor ſhall <hi>their Coats be
+changed,</hi>
+                  <note place="margin">Dan. 2.</note> neither <hi>the ſmell of Fire
+paſs on them.:</hi> Nay, even the Son of God ſhall bear them Company and
+preſerve them. And when <hi>Daniel</hi> is in the Den of Ly<g ref="char:EOLhyphen"/>ons, God
+anſwers his Prayers, and ſends his Angel and ſhuts the Ly<g ref="char:EOLhyphen"/>ons mouths,
+that they could not hurt him. In fine, by Prayer the Moon hath ſtood ſtill,
+the Sun gone backward, the Ravens have brought Food, the Heavens rained Manna,
+the Rocks afforded Water, the Fire hath given over Burning, the Lyons have
+ſtopt their Mouths,<note place="margin">Fidelibus totus mun<g ref="char:EOLhyphen"/>dus diviti<g ref="char:EOLhyphen"/>arum
+eſt. <hi>St. Auſtin de Civ. Dei.</hi>
+                  </note> and all Creatures ſhall
+muſter up themſelves to defend the Body of Chriſt; whereupon ſayes St.
+<hi>Auſtin,</hi> The Saints have all the World at their ſervice: And gives
+us the Reaſon, <hi>Domine quis tenet te?</hi> Lord, ſayes he, who can hold
+thee? who <pb n="88" facs="tcp:98231:52"/> can fetter and reſtrain Omnipoten<g ref="char:EOLhyphen"/>cy?</p>
+               <p>Nay, even <hi>Heathens</hi> and <hi>Turks</hi> have alwaies had
+a great venerati<g ref="char:EOLhyphen"/>on for Prayer, which is a reproach to Chriſtians, to be
+out-done by them. <hi>Numa Pompilius</hi> thought it ſufficient for his
+ſafety, he could anſwer,<note place="margin">At ego rem Divinam facio.</note>
+                  <hi>But I nm about the Ser<g ref="char:EOLhyphen"/>vice of my Gods:</hi> And 'twas the Heathen
+Cuſtom, not to venture upon buſineſs of moment without the Invocation of
+their Gods: And the advice of <hi>Xenophon</hi> was Divine, That in
+Proſperity they ſhould worſhip their Gods, that when they had a more
+particular need of their aſſiſtance they might with greater confidence
+approach them at their Altars, commending the ſucceſs to the Power and
+Provi<g ref="char:EOLhyphen"/>dence of thoſe Deities they ſer<g ref="char:EOLhyphen"/>ved. <hi>Publius Scipio</hi> uſed
+alwayes to go to the <hi>Capitol</hi> before he went to the Senate, and ſo
+begin the ſervice of the Commonwealth with prayer, as <hi>Suetonius</hi>
+tells us<note n="†" place="margin">Benè ac ſapienter Majores
+in<g ref="char:EOLhyphen"/>ſtituerunt ut rerum agen<g ref="char:EOLhyphen"/>daram ita dicendi ini<g ref="char:EOLhyphen"/>tium à
+prae<g ref="char:EOLhyphen"/>cationibus capere. <hi>Sueto. in vit. Caeſ.</hi>
+                  </note>: 
+<pb n="89" facs="tcp:98231:52"/> It was the Wiſdom of thoſe Go<g ref="char:EOLhyphen"/>vernments to commence
+all their buſineſs with the ſervice of their Gods.</p>
+               <p>Let us Chriſtians therefore,<note place="margin">Inf.</note>
+that have the Son of God to intercede for us (he is the Angel ſtanding before
+the Throne with the Gol<g ref="char:EOLhyphen"/>den Cenſer in his hand,<note place="margin">Rev.
+8.3.</note> filled with the Odours of his Merits,<note place="margin">Ipſe
+ſolus eſt cujus gratia De<g ref="char:EOLhyphen"/>um habe<g ref="char:EOLhyphen"/>mus propi<g ref="char:EOLhyphen"/>tium. <hi>Cal<g ref="char:EOLhyphen"/>vin.</hi>
+                  </note>
+to offer up with our prayers) be encou<g ref="char:EOLhyphen"/>raged to come to the Throne of Grace, to
+find Mercy and Grace to help in time of need: <hi>For he is able to ſave to
+the uttermoſt all that come unto God by him.</hi> Let us come to God in all
+Conditions. In our Adverſity, God tells us, <hi>No good thing will he
+withhold from them that diligently ſeek him:</hi> Prayer liſts us in the
+ſervice of the Almighty, and inrolls us under the Divine Standard, and from
+whence we may expect the favourable Protections of Providence.</p>
+               <p>And in our Proſperity, leſt we <pb n="90" facs="tcp:98231:53"/> be full
+and deny God, let us re<g ref="char:EOLhyphen"/>member the Corrective the <hi>Roman</hi> Emperours met
+with in the midſt of their Triumph and Glory; Look behind thee,<note place="margin">Reſpice poſt te &amp; homi<g ref="char:EOLhyphen"/>nem me<g ref="char:EOLhyphen"/>mento te.
+<hi>Suetonius.</hi>
+                  </note> and conſider thou alſo art mortal, and ſubject
+to miſery; for we know not to what extremities we may be ex<g ref="char:EOLhyphen"/>poſed. Let us
+therefore pray with <hi>David,</hi>
+                  <note place="margin">Pſal. 71.12.</note>
+                  <hi>O Lord be not far from me, O God make haſte for my help:</hi> And if we
+expect good ſucceſs in our Prayers, let us be alwayes deeply affected with
+thoſe things we pray for.<note place="margin">St. Matth. 22.11.</note> It is
+ſaid, <hi>The King came in to ſee the Gueſts;</hi> ſo in Prayer, the
+King of Glory looks into the frame and diſpoſition of our Hearts; let us
+therefore uſe Prayer aright, that it prime our Souls, and pre<g ref="char:EOLhyphen"/>ſerve us in
+the Oyl of Grace from Wind and Weather.</p>
+               <p>
+                  <note place="margin">Obſerv. 5.</note>
+                  <hi>Gods bleſſing and
+providing for Children, is a great bleſſing to Pa<g ref="char:EOLhyphen"/>rents.</hi>
+               </p>
+               <p n="1">1. <hi>Jacob</hi> tells us, Children are the 
+<pb n="91" facs="tcp:98231:53"/> Gift of God; when he met his Brother he told him,<note place="margin">Gen. 32.5.</note> 
+                  <hi>Theſe are the Children God hath
+graciouſly given me;</hi> and his great care and affection to his Children,
+is a great Pattern to Parents: Now Children being the ſame Fleſh, and
+pieces of their Parents, their Affection to them muſt needs be very great,
+and be highly ſolicitous to promote their welfare; as our Saviours Parents at
+<hi>Jeruſalem,</hi> did preſent him be<g ref="char:EOLhyphen"/>fore the Lord for his Bleſſing:
+And we cannot give it you <hi>in ter<g ref="char:EOLhyphen"/>minis,</hi> for Speech is lame, and words
+cannot reach the ſence of the thing ſignified; but moſt cer<g ref="char:EOLhyphen"/>tainly when
+God is pleaſed to an<g ref="char:EOLhyphen"/>ſwer the Prayers of Parents, and bleſs and provide
+for their Chil<g ref="char:EOLhyphen"/>dren, it is a very great kindneſs and Mercy to Parents: We
+will give you <hi>Davids</hi> ſence of this matter; when Gods Promiſe was
+made known to <hi>David:</hi>
+                  <note place="margin">2 Sam. 2.12.</note> 
+                  <hi>And
+when thy dayes ſhall be fulfill'd, and thou ſhalt ſleep with thy Fathers,
+I will ſet up thy ſeed after thee, which ſhall <pb n="92" facs="tcp:98231:54"/>
+proceed out of thy Bowels, and I will eſtabliſh his Kingdom:</hi> And we
+have <hi>Davids</hi> acknowledgment in the following verſes, <hi>Who am I, O
+Lord God,</hi>
+                  <note place="margin">
+                     <hi>V.</hi> 18, 19.</note> 
+                  <hi>and what is my
+Houſe, that thou haſt brought me hitherto! and this was yet a ſmall thing
+in thy ſight, O Lord God, for thou haſt ſpo<g ref="char:EOLhyphen"/>ken alſo of thy Servants
+Houſe, for a great while to come, and is this the manner of man, O Lord
+God!</hi> Nay in the 20. <hi>verſe,</hi> he wants words to expreſs his
+thankfulneſs; <hi>And what can David ſay more unto thee? for thou, Lord
+God, knoweſt thy Ser<g ref="char:EOLhyphen"/>vant:</hi> And when God had placed <hi>Solomon</hi> upon
+the Throne, he breaks out into this <hi>Elogium,</hi>
+                  <note place="margin">1 Kings
+1.48.</note> 
+                  <hi>Bleſ<g ref="char:EOLhyphen"/>ſed be the Lord God of Iſrael, which hath given me
+one to ſit upon the Throne this day, mine eyes even ſeeing it.</hi> Thus
+the admirable care <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> took for <hi>Iſaac,</hi> and his great
+charge to <hi>Eliezer,</hi> is an aſſured In<g ref="char:EOLhyphen"/>dication of his great Love and
+Af<g ref="char:EOLhyphen"/>fection; and that it would pleaſe God to anſwer <hi>Eliezers</hi>
+requeſt, he uſeth this Expreſſion; <hi>And ſhew <pb n="93" facs="tcp:98231:54"/>
+kindneſs unto my Maſter Abraham:</hi> And how did the Heart of old
+<hi>Jacob</hi> revive, when he heard of <hi>Joſephs</hi> being alive! how did
+he contemplate and adore the myſte<g ref="char:EOLhyphen"/>ries of Providence, That God had ſo
+miraculouſly preſerved and pro<g ref="char:EOLhyphen"/>vided for him; and made him Go<g ref="char:EOLhyphen"/>vernour over
+all the Land of <hi>E<g ref="char:EOLhyphen"/>gypt!</hi> and when he met him, how was he overwhelmed
+with Joy!<note place="margin">Gen. 46.30.</note> 
+                  <hi>Now let me die,</hi> ſayes
+he, <hi>ſince I have ſeen thy Face, and thou art yet alive.</hi>
+               </p>
+               <p n="2">2. As 'tis a great mercy to Pa<g ref="char:EOLhyphen"/>rents to ſee their
+Children bleſt and provided for, ſo on the con<g ref="char:EOLhyphen"/>trary, undutiful Children
+are a great trouble and grief to their Parents. <hi>Solomon</hi> tells us,
+<hi>The Fa<g ref="char:EOLhyphen"/>ther of a Fool hath no Joy;</hi> that is, hath a great deal of
+Trouble and Affliction: the words are a <hi>Meioſis,</hi> there is more
+intended than ex<g ref="char:EOLhyphen"/>preſs'd. How bitterly did <hi>David</hi> mourn, when
+<hi>Tamar</hi> was raviſhed, <hi>Amnon</hi> kill'd, and <hi>Abſalom</hi>
+caught <pb n="94" facs="tcp:98231:55"/> by the Hair of his Head and ſlain! And we meet
+with <hi>Auguſtus,</hi> that had fooliſh and wicked Children, wiſhing
+that either he had lived ſingle,<note place="margin">
+                     <g ref="char:V">Ʋ</g>tinam ut caelebs
+vix<g ref="char:EOLhyphen"/>iſſem, aut orbus peri<g ref="char:EOLhyphen"/>iſſem.</note> or dyed Childleſs. 'Tis ſad
+indeed to bring forth Children to the Murtherer, the Devil: and how miſerably
+does the Mother in <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> warble out her mournful ditty; <hi>Quo
+pueri eſtis profecti!</hi> Poor Souls, what's become of you!</p>
+               <p>
+                  <note place="margin">Inf.</note>Let Parents therefore carefully
+inſtruct their Children, and be thankful for the Bleſſings God
+be<g ref="char:EOLhyphen"/>ſtowes on them; and let Children be dutiful to their Parents, and let both
+obſerve <hi>Davids</hi> experience he found of both:<note place="margin">Pſal. 37.25</note> 
+                  <hi>I have not ſeen the Righteous
+forſaken, nor his Seed begging Bread.</hi>
+               </p>
+               <p>
+                  <note place="margin">Obſerv. 6. <hi>and
+laſt.</hi>
+                  </note>
+                  <hi>How happy are the Saints, that up<g ref="char:EOLhyphen"/>on all occaſions,
+they may pray to God to ſanctifie mercies!</hi>
+               </p>
+               <p>It is ſaid of the Cherubims, that <hi>there were hands under
+their wings;</hi> 
+                  <pb n="95" facs="tcp:98231:55"/> to ſignifie, that where there is that
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight of Knowledge, there ſhould
+be hands to put that light into practice: And our Saviour tells us, <hi>If ye
+know theſe things,</hi>
+                  <note place="margin">Joh. 13.3.</note> 
+                  <hi>happy are ye
+if ye do them;</hi> ſo that Happineſs
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pronounced of practice, and not
+ſpeculation; and here conſiſts the Saints Happineſs, that they im<g ref="char:EOLhyphen"/>prove
+their knowledge by prayer and walking with God: And by This the Wiſe man
+tells us, they <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>btain favour of
+the Lord;</hi> that is, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s
+<hi>Mercer</hi> gloſſeth,<note place="margin">
+                     <hi>Id vult quod à
+Do<g ref="char:EOLhyphen"/>mino impe<g ref="char:EOLhyphen"/>trat.</hi> Mer<g ref="char:EOLhyphen"/>cer in lo<g ref="char:EOLhyphen"/>cum. Matth. 7.7.</note> They have as it
+were what they pleaſe of God, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd
+are ſure of Gods favour and protection in all caſes, and the promiſes of
+God on their ſide. <hi>Ask and it ſhall be given you, ſeek
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd ye ſhall find, knock and it
+ſhall <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e opened unto you;</hi> and
+nothing can <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtrain Omnipotency
+but Unbe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ief.</p>
+               <p>Now, 'tis as true in Divinity as
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Philoſophy, That Knowledge
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Power is to no effect, unleſs
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t be produced into Act; for the 
+<pb n="96" facs="tcp:98231:56"/> end of Knowledge is Action;<note place="margin">Fruſtra
+eſt potentia quae nun<g ref="char:EOLhyphen"/>quam pro<g ref="char:EOLhyphen"/>ducitur in actum. <hi>Ariſt.</hi>
+Eth.</note> as if Arts and Sciences: And ſhall their Votaries improve
+themſelves by all the advantages and benefits of A<g ref="char:EOLhyphen"/>ction; nay, an Heathen
+affirm, That felicity conſiſteth not in the <hi>Theory,</hi> but in the
+practice of moral Vir<g ref="char:EOLhyphen"/>tues; and tell the world, that the naked knowledge
+without the pra<g ref="char:EOLhyphen"/>ctice of Virtue, is like thoſe that ask advice of the
+Phyſician about bodily diſtempers, but will no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuffer any remedy to be admini<g ref="char:EOLhyphen"/>ſtred? And ſhall
+the Servants o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God be ſatisfied
+with the <hi>Ideas</hi> o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Truth
+floating in their Brains, with<g ref="char:EOLunhyphen"/>out an influence on the Heart and Life? No, the
+devout Chriſtian la<g ref="char:EOLunhyphen"/>bours with as much more earneſt<g ref="char:EOLunhyphen"/>neſs, as his End and
+Reward is a<g ref="char:EOLunhyphen"/>bove others; he does not ſatisfie himſelf with Speculation or
+Cere<g ref="char:EOLhyphen"/>mony, bare obſervance will no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleaſe him; he is altogether fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reality and performance, and ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a deeper inſight into Divine my<g ref="char:EOLunhyphen"/>ſteries than other men: he
+wel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> knowes, that 'tis not thoſe
+tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <pb n="97" facs="tcp:98231:56"/> know
+only,<note place="margin">James 1.21.</note> but thoſe that do the will of God,
+who ſhall enter into the Kingdom of his Father, as Chriſt tells us.</p>
+               <p>Moſt admirable is the advice of <hi>Eliphaz</hi> to
+<hi>Job:</hi>
+                  <note place="margin">Job 5. <hi>ult.</hi>
+                  </note> A wiſe man
+labours to know the goodneſs of every thing; and here lyes the happineſs of
+the Saints above other People, even in Creature-enjoyments, that by Prayer both
+Mercies and Afflicti<g ref="char:EOLhyphen"/>ons are ſanctified to them; others in their enjoyments
+ſuck in the S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing as well as the
+Honey, 'tis the good Chriſtian only that feeds on clean and polite
+Pleaſure: others are miſled into corrupt apprehen<g ref="char:EOLhyphen"/>ſions and
+preſumptions of things, the Saints only preſerve their Intellectuals
+untainted; others in the midſt of their abundance pro<g ref="char:EOLhyphen"/>ſtitute their
+Affections, due only to God, to a corruptible Creature; the Saints only improve
+their com<g ref="char:EOLhyphen"/>forts and enjoyments to Gods glo<g ref="char:EOLhyphen"/>ry, as they are the emanations of 
+<pb n="98" facs="tcp:98231:57"/> his bounty, and make the Crea<g ref="char:EOLhyphen"/>tures ſerviceable to
+illuſtrate and ſet forward the accumulated glo<g ref="char:EOLhyphen"/>ry of their Creator: others
+take up their reſt, and place their <hi>Sum<g ref="char:EOLhyphen"/>mum Bonum</hi> in the enjoyments
+of this world, and eſteem it their only Joy when their Oyl and Wine
+increaſeth: there is ſuch Corruption in their Nature, and Sophiſtry in
+the Creature, that from the greatneſs of their wealth, they conclude they
+have much laid up for many years,<note place="margin">Luk. 12.19.</note> they may
+take their eaſe, eat, drink and be mer<g ref="char:EOLhyphen"/>ry;<note place="margin">Pſal.
+49.11.</note> and the Pſalmiſt tells us, <hi>Their inward thought is, that
+their Houſes ſhall endure for ever, and their dwell<g ref="char:EOLhyphen"/>ing places to all
+generations;</hi> and even Deifie themſelves in the reflection of their own
+grandeur.<note place="margin">Pſal 49.14.</note> Alas! they are aſleep in
+their Tent of Epi<g ref="char:EOLhyphen"/>curiſm and Senſuality, and little think that a day of
+viſitation and recompenſe for ſin is at hand; and on a ſuddain
+mortality overtakes them, as <hi>David</hi> tells us, <hi>Like ſheep 
+<pb n="99" facs="tcp:98231:57"/> they are laid in the grave, death ſhall feed on them,
+and the upright ſhall have dominion over them in the morn<g ref="char:EOLhyphen"/>ing, and their
+beauty ſhall conſume in the grave from their dwelling.</hi> Then is their
+miſtaken happineſs come to a final period, and their miſe<g ref="char:EOLhyphen"/>ry commenced
+ETERNAL; then their Cuts and Complements will appear nothing elſe but
+affected Vanities, their Pride and Luxury, their Swaggering and their
+Swear<g ref="char:EOLhyphen"/>ing, their Formula's of Complai<g ref="char:EOLhyphen"/>ſance and Courtſhip ſhall then be
+pronounced but glittering Abomi<g ref="char:EOLhyphen"/>nations: Then Apoſtles and Saints ſhall
+ſhine in Glory, when the per<g ref="char:EOLhyphen"/>ſecuting <hi>Nero</hi>'s of the World ſhall
+be thrown to Hell: And at laſt be forced to confeſs, <hi>We Fools counted
+their Life madneſs, and their end to have been without Honour: How are they
+now rec<g ref="char:EOLhyphen"/>koned amongſt the Saints, and have their Portion with the
+Al<g ref="char:EOLhyphen"/>mighty!</hi>
+               </p>
+               <p>
+                  <pb n="100" facs="tcp:98231:58"/>But the Devour Chriſtian hath <hi>Oculus
+in metam,</hi> his eye on the Mark, and ſteers all his actions by the
+Compaſs of Gods Wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; he uſes
+the Creatures with a critical frui<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, and as helps only, not <hi>Remora</hi>'s in his paſſage to
+the New <hi>Jeruſalem;</hi> and by Prayer endeavours to reduce the Creature
+to it's primitive goodneſs, that ſo the Curſe being ſubducted, he may
+enjoy them with a bleſſing; as the Apoſtle tells us, <hi>Every Creature
+of God is good, be<g ref="char:EOLhyphen"/>ing ſanctified by the Word of God and prayer:</hi> By
+which the Creature is ſanctified theſe three wayes.</p>
+               <p n="1">1. In obtaining Mercies: We ought to ſeek to God, as
+<hi>Eliezer</hi> did; and ſo the Apoſtle exhorts us: <hi>In all things with
+Prayer and Supplication, let your requeſts be made known to God:</hi> And we
+have the ex<g ref="char:EOLhyphen"/>ample of Chriſt and his Apoſtles; and God expects that we
+ſhould acknowledge his Dominion and Power over ſecond Agents.</p>
+               <p n="2">
+                  <pb n="101" facs="tcp:98231:58"/>2. Prayer ſanctifies the Enjoy<g ref="char:EOLhyphen"/>ment
+and uſe of them. <hi>Solomon</hi> tells us, <hi>To re<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ice in our labour is the Gift of God:</hi> pleaſure is
+in it ſelf lawful, but corrupt Nature is apt to make us Love pleaſure more
+than God, therefore we ought to pray againſt its prevalency: And our Tables
+too often are turned into a Snare; we muſt pray there<g ref="char:EOLhyphen"/>fore to uſe the
+Creature with that temperance and ſobriety, as may raiſe us nearer to God
+in contem<g ref="char:EOLhyphen"/>plation of the Divine Providence, and care over us, and as Eviden<g ref="char:EOLhyphen"/>ces
+of Gods Love towards us, without which worldly abundance may prove but a
+deceitful argu<g ref="char:EOLhyphen"/>ment of Gods favour; and ſome<g ref="char:EOLhyphen"/>times Afflictions have proved
+the diſſembled favours of Affection.</p>
+               <p n="3">3. Prayer ſanctifies the Creature, in the R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>membrance and Recogni<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of Gods Mercies in them, and with
+Thankfulneſs to improve thoſe <pb n="102" facs="tcp:98231:59"/> Diſpenſations of
+Grace and Favour: Thus did the Holy Pſalmiſt.<note place="margin">Pſal.
+23.5, 6.</note> 
+                  <hi>Thou prepareſt a Table for me in the preſence of mine
+Enemies, thou anointeſt my Head with Oyl, my cup runneth over: Surely
+goodneſs and mercy ſhall follow me all the daies of my Life, and I will
+dwell in the houſe of the Lord for ever.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98231:59"/>
+            <head>Books lately printed for <hi>John Salusbury</hi> at the
+<hi>Atlas</hi> in <hi>Cornhill</hi> near the <hi>Royal Exchange.</hi>
+            </head>
+            <p>
+               <hi>OEconomica Sacra:</hi> Or, a Parae<g ref="char:EOLhyphen"/>netical Diſcourſe of
+Marri<g ref="char:EOLhyphen"/>age; together with ſome particular Remarks on the Marriage of
+<hi>Iſaac</hi> and <hi>Rebecka.</hi>
+            </p>
+            <p>
+               <hi>Iter ad Aſtra:</hi> Or, The Portray<g ref="char:EOLhyphen"/>ture of a Suffering
+Chriſtian; with an Introduction of Mans Creation. By the ſame Author.</p>
+            <p>Of Contentment, Patience and Reſignation to the Will of God: In
+ſeveral Sermons. By <hi>Iſaac Bar<g ref="char:EOLhyphen"/>row,</hi> D. D. Never before Printed.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>num Neceſſarium:</hi> Or, Chriſt's Juſtification of
+<hi>Mary</hi>'s Choice, and of his Servants wrongfully Accuſed: Containing a
+Reſolution of many weighty Caſes of Conſcience. <hi>Viz.</hi> Indifferent
+Things, Obedience to the Higher Powers, <hi>&amp;c.</hi> With ſome
+Reflections on Popery, and a brief Account of the many Cruelties com<g ref="char:EOLhyphen"/>mitted by
+the Papiſts. By <hi>Richard Baxter.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:98231:60"/>A Second Volume of Diſcourſes: By <hi>Hezekiah
+Burton,</hi> D. D. late Re<g ref="char:EOLhyphen"/>ctor of <hi>Barns</hi> near <hi>London,</hi> and
+Pre<g ref="char:EOLhyphen"/>bendary of <hi>Norwich.</hi>
+            </p>
+            <p>The true Prophecies or Progno<g ref="char:EOLhyphen"/>ſtications of <hi>Michael
+Noſtradamus,</hi> Phyſician to <hi>Henr</hi> 2. <hi>Francis</hi> 2. and
+<hi>Charles</hi> 9. Kings of <hi>France,</hi> and one of the beſt
+Aſtronomers that ever were. A Work full of Curioſity and Learning.
+Tranſlated and Com<g ref="char:EOLhyphen"/>mented by <hi>Theophilus de Garenci<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res,</hi> Doctor in Phyſick <hi>Colleg. Lond.</hi>
+            </p>
+            <p>The Fifteen Comforts of Raſh and Inconſiderate Marriage, or
+Ani<g ref="char:EOLhyphen"/>madverſions upon the Miſcarriages of a Wedded Eſtate: With the
+Ad<g ref="char:EOLhyphen"/>ditions of three Comforts more.</p>
+            <p>The Secret Hiſtory of the moſt Renowned Queen
+<hi>Elizabeth</hi> and the Earl of <hi>Eſſex.</hi> By a Perſon of
+Qua<g ref="char:EOLhyphen"/>lity.</p>
+            <p>The Laws and Acts of Parliament made by King <hi>James</hi> I. and
+his Roy<g ref="char:EOLhyphen"/>al Succeſſors, Kings of <hi>Scotland.</hi> In <hi>Folio.</hi>
+            </p>
+            <pb facs="tcp:98231:60"/>
+            <pb n="80" facs="tcp:98231:61"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="81" facs="tcp:98231:61"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="82" facs="tcp:98231:62"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="83" facs="tcp:98231:62"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="84" facs="tcp:98231:63"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="85" facs="tcp:98231:63"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="86" facs="tcp:98231:64"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="87" facs="tcp:98231:64"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="88" facs="tcp:98231:65"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="89" facs="tcp:98231:65"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="90" facs="tcp:98231:66"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="91" facs="tcp:98231:66"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="92" facs="tcp:98231:67"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="93" facs="tcp:98231:67"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="94" facs="tcp:98231:68"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="95" facs="tcp:98231:68"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="96" facs="tcp:98231:69"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="97" facs="tcp:98231:69"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="82" facs="tcp:98231:70"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="83" facs="tcp:98231:70"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="100" facs="tcp:98231:71"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="101" facs="tcp:98231:71"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="86" facs="tcp:98231:72"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:98231:72"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:98231:73"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:98231:73"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
